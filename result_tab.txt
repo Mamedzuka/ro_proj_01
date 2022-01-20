@@ -1,0 +1,1981 @@
+1         10.0      Error in odd_rhs: log argument < 0      
+2         10.5      Error in even_rhs: log argument < 0     
+3         11.0      1.697151799066092                       
+4         11.5      Error in even_rhs: log argument < 0     
+5         12.0      1.6005814723536866                      
+6         12.5      Error in even_rhs: log argument < 0     
+7         13.0      1.959462837252391                       
+8         13.5      2.2663912479420443                      
+9         14.0      Error in odd_rhs: log argument < 0      
+10        14.5      1.6243750880472356                      
+11        15.0      Error in odd_rhs: log argument < 0      
+12        15.5      1.6450523725524175                      
+13        16.0      Error in odd_rhs: log argument < 0      
+14        16.5      3.0110022681259956                      
+15        17.0      1.817118659906876                       
+16        17.5      Error in even_rhs: log argument < 0     
+17        18.0      1.5914373606927448                      
+18        18.5      Error in even_rhs: log argument < 0     
+19        19.0      1.7717380748365639                      
+20        19.5      Error in even_rhs: log argument < 0     
+21        20.0      Error in odd_rhs: log argument < 0      
+22        20.5      1.6864546782396137                      
+23        21.0      Error in odd_rhs: log argument < 0      
+24        21.5      1.6036349398306036                      
+25        22.0      Error in odd_rhs: log argument < 0      
+26        22.5      1.9953088772324648                      
+27        23.0      2.0585545006711583                      
+28        23.5      Error in even_rhs: log argument < 0     
+29        24.0      1.6090479733229412                      
+30        24.5      Error in even_rhs: log argument < 0     
+31        25.0      1.6717867964443731                      
+32        25.5      Error in even_rhs: log argument < 0     
+33        26.0      Error in odd_rhs: log argument < 0      
+34        26.5      1.7978879934299095                      
+35        27.0      Error in odd_rhs: log argument < 0      
+36        27.5      1.591128404083452                       
+37        28.0      Error in odd_rhs: log argument < 0      
+38        28.5      1.7888468177755845                      
+39        29.0      Error in odd_rhs: log argument < 0      
+40        29.5      Error in even_rhs: log argument < 0     
+41        30.0      1.6565837496094455                      
+42        30.5      Error in even_rhs: log argument < 0     
+43        31.0      1.6166703456139557                      
+44        31.5      Error in even_rhs: log argument < 0     
+45        32.0      2.1535715760115792                      
+46        32.5      2.01493828789734                        
+47        33.0      Error in odd_rhs: log argument < 0      
+48        33.5      1.6053242070264073                      
+49        34.0      Error in odd_rhs: log argument < 0      
+50        34.5      1.6813959049617313                      
+51        35.0      Error in odd_rhs: log argument < 0      
+52        35.5      Error in even_rhs: log argument < 0     
+53        36.0      1.7447341493539021                      
+54        36.5      Error in even_rhs: log argument < 0     
+55        37.0      1.592970867287451                       
+56        37.5      Error in even_rhs: log argument < 0     
+57        38.0      1.8548015133141138                      
+58        38.5      Error in even_rhs: log argument < 0     
+59        39.0      Error in odd_rhs: log argument < 0      
+60        39.5      1.648743518263159                       
+61        40.0      Error in odd_rhs: log argument < 0      
+62        40.5      1.6216872790775156                      
+63        41.0      Error in odd_rhs: log argument < 0      
+64        41.5      2.224279399086799                       
+65        42.0      1.9057456595100313                      
+66        42.5      Error in even_rhs: log argument < 0     
+67        43.0      1.5962877178144677                      
+68        43.5      Error in even_rhs: log argument < 0     
+69        44.0      1.717778443913794                       
+70        44.5      Error in even_rhs: log argument < 0     
+71        45.0      Error in odd_rhs: log argument < 0      
+72        45.5      1.7307682048333464                      
+73        46.0      Error in odd_rhs: log argument < 0      
+74        46.5      1.5944198965288887                      
+75        47.0      Error in odd_rhs: log argument < 0      
+76        47.5      1.8790917938614944                      
+77        48.0      2.3149600396704293                      
+78        48.5      Error in even_rhs: log argument < 0     
+79        49.0      1.6271958836842948                      
+80        49.5      Error in even_rhs: log argument < 0     
+81        50.0      1.641494812263639                       
+82        50.5      Error in even_rhs: log argument < 0     
+83        51.0      2.732369717640422                       
+84        51.5      1.879070159396606                       
+85        52.0      Error in odd_rhs: log argument < 0      
+86        52.5      1.5944184851504366                      
+87        53.0      Error in odd_rhs: log argument < 0      
+88        53.5      1.7307796686259735                      
+89        54.0      Error in odd_rhs: log argument < 0      
+90        54.5      Error in even_rhs: log argument < 0     
+91        55.0      1.6917104540773693                      
+92        55.5      Error in even_rhs: log argument < 0     
+93        56.0      1.6020524937616523                      
+94        56.5      Error in even_rhs: log argument < 0     
+95        57.0      1.9768379640561495                      
+96        57.5      2.2242120739447424                      
+97        58.0      Error in odd_rhs: log argument < 0      
+98        58.5      1.6216828006204338                      
+99        59.0      Error in odd_rhs: log argument < 0      
+100       59.5      1.6487499377980097                      
+101       60.0      Error in odd_rhs: log argument < 0      
+102       60.5      Error in even_rhs: log argument < 0     
+103       61.0      1.8073151820888902                      
+104       61.5      Error in even_rhs: log argument < 0     
+105       62.0      1.5912313972870766                      
+106       62.5      Error in even_rhs: log argument < 0     
+107       63.0      1.7801259106579768                      
+108       63.5      Error in even_rhs: log argument < 0     
+109       64.0      Error in odd_rhs: log argument < 0      
+110       64.5      1.6813874296201679                      
+111       65.0      Error in odd_rhs: log argument < 0      
+112       65.5      1.6053271836392333                      
+113       66.0      Error in odd_rhs: log argument < 0      
+114       66.5      2.0149728817721106                      
+115       67.0      2.0359806988258087                      
+116       67.5      Error in even_rhs: log argument < 0     
+117       68.0      1.6071300907922759                      
+118       68.5      Error in even_rhs: log argument < 0     
+119       69.0      1.676502653912001                       
+120       69.5      Error in even_rhs: log argument < 0     
+121       70.0      Error in odd_rhs: log argument < 0      
+122       70.5      1.7888316937433812                      
+123       71.0      Error in odd_rhs: log argument < 0      
+124       71.5      1.5911284917252586                      
+125       72.0      Error in odd_rhs: log argument < 0      
+126       72.5      1.7979037180135622                      
+127       73.0      Error in odd_rhs: log argument < 0      
+128       73.5      Error in even_rhs: log argument < 0     
+129       74.0      1.6525903947659222                      
+130       74.5      Error in even_rhs: log argument < 0     
+131       75.0      1.6191166519895985                      
+132       75.5      Error in even_rhs: log argument < 0     
+133       76.0      2.1869599787702168                      
+134       76.5      1.9952764637139986                      
+135       77.0      Error in odd_rhs: log argument < 0      
+136       77.5      1.6036321533464766                      
+137       78.0      Error in odd_rhs: log argument < 0      
+138       78.5      1.6864634619973027                      
+139       79.0      Error in odd_rhs: log argument < 0      
+140       79.5      Error in even_rhs: log argument < 0     
+141       80.0      1.7376284104676833                      
+142       80.5      Error in even_rhs: log argument < 0     
+143       81.0      1.5936427600792205                      
+144       81.5      Error in even_rhs: log argument < 0     
+145       82.0      1.86666548491662                        
+146       82.5      3.0102565803694583                      
+147       83.0      Error in odd_rhs: log argument < 0      
+148       83.5      1.6450461991792726                      
+149       84.0      Error in odd_rhs: log argument < 0      
+150       84.5      1.62437977937031                        
+151       85.0      Error in odd_rhs: log argument < 0      
+152       85.5      2.26646798672114                        
+153       86.0      1.8920913375968682                      
+154       86.5      Error in even_rhs: log argument < 0     
+155       87.0      1.5953006549301445                      
+156       87.5      Error in even_rhs: log argument < 0     
+157       88.0      1.7241604528469852                      
+158       88.5      Error in even_rhs: log argument < 0     
+159       89.0      Error in odd_rhs: log argument < 0      
+160       89.5      1.7241549220598686                      
+161       90.0      Error in odd_rhs: log argument < 0      
+162       90.5      1.595301450313563                       
+163       91.0      Error in odd_rhs: log argument < 0      
+164       91.5      1.892102681548293                       
+165       92.0      2.266429615053196                       
+166       92.5      Error in even_rhs: log argument < 0     
+167       93.0      1.6243774336630892                      
+168       93.5      Error in even_rhs: log argument < 0     
+169       94.0      1.6450492858140333                      
+170       94.5      Error in even_rhs: log argument < 0     
+171       95.0      3.010629212597039                       
+172       95.5      1.866655155152155                       
+173       96.0      Error in odd_rhs: log argument < 0      
+174       96.5      1.5936421436324049                      
+175       97.0      Error in odd_rhs: log argument < 0      
+176       97.5      1.7376343518944277                      
+177       98.0      Error in odd_rhs: log argument < 0      
+178       98.5      Error in even_rhs: log argument < 0     
+179       99.0      1.686459070051788                       
+180       99.5      Error in even_rhs: log argument < 0     
+181       100.0     1.603633546548277                       
+182       100.5     Error in even_rhs: log argument < 0     
+183       101.0     1.995292670036088                       
+184       101.5     2.1869300129159996                      
+185       102.0     Error in odd_rhs: log argument < 0      
+186       102.5     1.6191145175471855                      
+187       103.0     Error in odd_rhs: log argument < 0      
+188       103.5     1.652593730526958                       
+189       104.0     Error in odd_rhs: log argument < 0      
+190       104.5     Error in even_rhs: log argument < 0     
+191       105.0     1.7978958555903282                      
+192       105.5     Error in even_rhs: log argument < 0     
+193       106.0     1.5911284478670442                      
+194       106.5     Error in even_rhs: log argument < 0     
+195       107.0     1.7888392556351256                      
+196       107.5     Error in even_rhs: log argument < 0     
+197       108.0     Error in odd_rhs: log argument < 0      
+198       108.5     1.6764985659077303                      
+199       109.0     Error in odd_rhs: log argument < 0      
+200       109.5     1.6071316752215625                      
+201       110.0     Error in odd_rhs: log argument < 0      
+202       110.5     2.035999230268716                       
+203       111.0     2.014955584341981                       
+204       111.5     Error in even_rhs: log argument < 0     
+205       112.0     1.6053256952921404                      
+206       112.5     Error in even_rhs: log argument < 0     
+207       113.0     1.681391667226305                       
+208       113.5     Error in even_rhs: log argument < 0     
+209       114.0     Error in odd_rhs: log argument < 0      
+210       114.5     1.7801186332219376                      
+211       115.0     Error in odd_rhs: log argument < 0      
+212       115.5     1.591231528814595                       
+213       116.0     Error in odd_rhs: log argument < 0      
+214       116.5     1.8073233621703133                      
+215       117.0     Error in odd_rhs: log argument < 0      
+216       117.5     Error in even_rhs: log argument < 0     
+217       118.0     1.648746727977593                       
+218       118.5     Error in even_rhs: log argument < 0     
+219       119.0     1.6216850398040341                      
+220       119.5     Error in even_rhs: log argument < 0     
+221       120.0     2.2242457347534836                      
+222       120.5     1.976822728415741                       
+223       121.0     Error in odd_rhs: log argument < 0      
+224       121.5     1.602051194681172                       
+225       122.0     Error in odd_rhs: log argument < 0      
+226       122.5     1.6917150051545806                      
+227       123.0     Error in odd_rhs: log argument < 0      
+228       123.5     Error in even_rhs: log argument < 0     
+229       124.0     1.7307739366423385                      
+230       124.5     Error in even_rhs: log argument < 0     
+231       125.0     1.5944191908015966                      
+232       125.5     Error in even_rhs: log argument < 0     
+233       126.0     1.8790809764136183                      
+234       126.5     2.732210008083929                       
+235       127.0     Error in odd_rhs: log argument < 0      
+236       127.5     1.6414918460209456                      
+237       128.0     Error in odd_rhs: log argument < 0      
+238       128.5     1.6271983376260881                      
+239       129.0     Error in odd_rhs: log argument < 0      
+240       129.5     2.3150046161198423                      
+241       130.0     1.8790809764136183                      
+242       130.5     Error in even_rhs: log argument < 0     
+243       131.0     1.5944191908015966                      
+244       131.5     Error in even_rhs: log argument < 0     
+245       132.0     1.7307739366423385                      
+246       132.5     Error in even_rhs: log argument < 0     
+247       133.0     Error in odd_rhs: log argument < 0      
+248       133.5     1.717773106350509                       
+249       134.0     Error in odd_rhs: log argument < 0      
+250       134.5     1.5962886033655241                      
+251       135.0     Error in odd_rhs: log argument < 0      
+252       135.5     1.9057575744910114                      
+253       136.0     2.2242457347534836                      
+254       136.5     Error in even_rhs: log argument < 0     
+255       137.0     1.6216850398040341                      
+256       137.5     Error in even_rhs: log argument < 0     
+257       138.0     1.648746727977593                       
+258       138.5     Error in even_rhs: log argument < 0     
+259       139.0     Error in odd_rhs: log argument < 0      
+260       139.5     1.854791636084431                       
+261       140.0     Error in odd_rhs: log argument < 0      
+262       140.5     1.5929703396525272                      
+263       141.0     Error in odd_rhs: log argument < 0      
+264       141.5     1.7447403093175688                      
+265       142.0     Error in odd_rhs: log argument < 0      
+266       142.5     Error in even_rhs: log argument < 0     
+267       143.0     1.681391667226305                       
+268       143.5     Error in even_rhs: log argument < 0     
+269       144.0     1.6053256952921404                      
+270       144.5     Error in even_rhs: log argument < 0     
+271       145.0     2.014955584341981                       
+272       145.5     2.153544589817795                       
+273       146.0     Error in odd_rhs: log argument < 0      
+274       146.5     1.6166683143257872                      
+275       147.0     Error in odd_rhs: log argument < 0      
+276       147.5     1.6565872143522278                      
+277       148.0     Error in odd_rhs: log argument < 0      
+278       148.5     Error in even_rhs: log argument < 0     
+279       149.0     1.7888392556351256                      
+280       149.5     Error in even_rhs: log argument < 0     
+281       150.0     1.5911284478670442                      
+282       150.5     Error in even_rhs: log argument < 0     
+283       151.0     1.7978958555903282                      
+284       151.5     Error in even_rhs: log argument < 0     
+285       152.0     Error in odd_rhs: log argument < 0      
+286       152.5     1.6717828537306831                      
+287       153.0     Error in odd_rhs: log argument < 0      
+288       153.5     1.6090496549295004                      
+289       154.0     Error in odd_rhs: log argument < 0      
+290       154.5     2.058574441301404                       
+291       155.0     1.995292670036088                       
+292       155.5     Error in even_rhs: log argument < 0     
+293       156.0     1.603633546548277                       
+294       156.5     Error in even_rhs: log argument < 0     
+295       157.0     1.686459070051788                       
+296       157.5     Error in even_rhs: log argument < 0     
+297       158.0     Error in odd_rhs: log argument < 0      
+298       158.5     1.7717310674252325                      
+299       159.0     Error in odd_rhs: log argument < 0      
+300       159.5     1.5914375799720824                      
+301       160.0     Error in odd_rhs: log argument < 0      
+302       160.5     1.8171271767923074                      
+303       161.0     3.010629212597039                       
+304       161.5     Error in even_rhs: log argument < 0     
+305       162.0     1.6450492858140333                      
+306       162.5     Error in even_rhs: log argument < 0     
+307       163.0     1.6243774336630892                      
+308       163.5     Error in even_rhs: log argument < 0     
+309       164.0     2.266429615053196                       
+310       164.5     1.9594484719804608                      
+311       165.0     Error in odd_rhs: log argument < 0      
+312       165.5     1.600580266524018                       
+313       166.0     Error in odd_rhs: log argument < 0      
+314       166.5     1.6971565145407388                      
+315       167.0     Error in odd_rhs: log argument < 0      
+316       167.5     Error in even_rhs: log argument < 0     
+317       168.0     1.7241604528469852                      
+318       168.5     Error in even_rhs: log argument < 0     
+319       169.0     1.5953006549301445                      
+320       169.5     Error in even_rhs: log argument < 0     
+321       170.0     1.8920913375968682                      
+322       170.5     2.5838868699869426                      
+323       171.0     Error in odd_rhs: log argument < 0      
+324       171.5     1.6380773972221583                      
+325       172.0     Error in odd_rhs: log argument < 0      
+326       172.5     1.6301451363905246                      
+327       173.0     Error in odd_rhs: log argument < 0      
+328       173.5     2.3721007455517755                      
+329       174.0     1.86666548491662                        
+330       174.5     Error in even_rhs: log argument < 0     
+331       175.0     1.5936427600792205                      
+332       175.5     Error in even_rhs: log argument < 0     
+333       176.0     1.7376284104676833                      
+334       176.5     Error in even_rhs: log argument < 0     
+335       177.0     Error in odd_rhs: log argument < 0      
+336       177.5     1.7116139326181519                      
+337       178.0     Error in odd_rhs: log argument < 0      
+338       178.5     1.5973819924373245                      
+339       179.0     Error in odd_rhs: log argument < 0      
+340       179.5     1.9201123672466776                      
+341       180.0     2.1869599787702168                      
+342       180.5     Error in even_rhs: log argument < 0     
+343       181.0     1.6191166519895985                      
+344       181.5     Error in even_rhs: log argument < 0     
+345       182.0     1.6525903947659222                      
+346       182.5     Error in even_rhs: log argument < 0     
+347       183.0     Error in odd_rhs: log argument < 0      
+348       183.5     1.8434411391172438                      
+349       184.0     Error in odd_rhs: log argument < 0      
+350       184.5     1.5924026463906908                      
+351       185.0     Error in odd_rhs: log argument < 0      
+352       185.5     1.7521086562311734                      
+353       186.0     Error in odd_rhs: log argument < 0      
+354       186.5     Error in even_rhs: log argument < 0     
+355       187.0     1.676502653912001                       
+356       187.5     Error in even_rhs: log argument < 0     
+357       188.0     1.6071300907922759                      
+358       188.5     Error in even_rhs: log argument < 0     
+359       189.0     2.0359806988258087                      
+360       189.5     2.1233355216195897                      
+361       190.0     Error in odd_rhs: log argument < 0      
+362       190.5     1.6143423857167838                      
+363       191.0     Error in odd_rhs: log argument < 0      
+364       191.5     1.6607340747146                         
+365       192.0     Error in odd_rhs: log argument < 0      
+366       192.5     Error in even_rhs: log argument < 0     
+367       193.0     1.7801259106579768                      
+368       193.5     Error in even_rhs: log argument < 0     
+369       194.0     1.5912313972870766                      
+370       194.5     Error in even_rhs: log argument < 0     
+371       195.0     1.8073151820888902                      
+372       195.5     Error in even_rhs: log argument < 0     
+373       196.0     Error in odd_rhs: log argument < 0      
+374       196.5     1.6672353906323771                      
+375       197.0     Error in odd_rhs: log argument < 0      
+376       197.5     1.611082456155448                       
+377       198.0     Error in odd_rhs: log argument < 0      
+378       198.5     2.08292737006908                        
+379       199.0     1.9768379640561495                      
+380       199.5     Error in even_rhs: log argument < 0     
+381       200.0     1.6020524937616523                      
+382       200.5     Error in even_rhs: log argument < 0     
+383       201.0     1.6917104540773693                      
+384       201.5     Error in even_rhs: log argument < 0     
+385       202.0     Error in odd_rhs: log argument < 0      
+386       202.5     1.7636527823389108                      
+387       203.0     Error in odd_rhs: log argument < 0      
+388       203.5     1.591746774546232                       
+389       204.0     Error in odd_rhs: log argument < 0      
+390       204.5     1.8273388082860733                      
+391       205.0     2.732369717640422                       
+392       205.5     Error in even_rhs: log argument < 0     
+393       206.0     1.641494812263639                       
+394       206.5     Error in even_rhs: log argument < 0     
+395       207.0     1.6271958836842948                      
+396       207.5     Error in even_rhs: log argument < 0     
+397       208.0     2.3149600396704293                      
+398       208.5     1.943045166464354                       
+399       209.0     Error in odd_rhs: log argument < 0      
+400       209.5     1.5992183876188186                      
+401       210.0     Error in odd_rhs: log argument < 0      
+402       210.5     1.7027943917703114                      
+403       211.0     Error in odd_rhs: log argument < 0      
+404       211.5     Error in even_rhs: log argument < 0     
+405       212.0     1.717778443913794                       
+406       212.5     Error in even_rhs: log argument < 0     
+407       213.0     1.5962877178144677                      
+408       213.5     Error in even_rhs: log argument < 0     
+409       214.0     1.9057456595100313                      
+410       214.5     2.4821524520507814                      
+411       215.0     Error in odd_rhs: log argument < 0      
+412       215.5     1.6347999734970082                      
+413       216.0     Error in odd_rhs: log argument < 0      
+414       216.5     1.6332224979370054                      
+415       217.0     Error in odd_rhs: log argument < 0      
+416       217.5     2.4413817123645236                      
+417       218.0     1.8548015133141138                      
+418       218.5     Error in even_rhs: log argument < 0     
+419       219.0     1.592970867287451                       
+420       219.5     Error in even_rhs: log argument < 0     
+421       220.0     1.7447341493539021                      
+422       220.5     Error in even_rhs: log argument < 0     
+423       221.0     Error in odd_rhs: log argument < 0      
+424       221.5     1.7056692029719533                      
+425       222.0     Error in odd_rhs: log argument < 0      
+426       222.5     1.5985823272912216                      
+427       223.0     Error in odd_rhs: log argument < 0      
+428       223.5     1.9352310635784902                      
+429       224.0     2.1535715760115792                      
+430       224.5     Error in even_rhs: log argument < 0     
+431       225.0     1.6166703456139557                      
+432       225.5     Error in even_rhs: log argument < 0     
+433       226.0     1.6565837496094455                      
+434       226.5     Error in even_rhs: log argument < 0     
+435       227.0     Error in odd_rhs: log argument < 0      
+436       227.5     1.832569379953002                       
+437       228.0     Error in odd_rhs: log argument < 0      
+438       228.5     1.5919387045309012                      
+439       229.0     Error in odd_rhs: log argument < 0      
+440       229.5     1.7597514381708248                      
+441       230.0     Error in odd_rhs: log argument < 0      
+442       230.5     Error in even_rhs: log argument < 0     
+443       231.0     1.6717867964443731                      
+444       231.5     Error in even_rhs: log argument < 0     
+445       232.0     1.6090479733229412                      
+446       232.5     Error in even_rhs: log argument < 0     
+447       233.0     2.0585545006711583                      
+448       233.5     2.0957669722686667                      
+449       234.0     Error in odd_rhs: log argument < 0      
+450       234.5     1.6121350400092191                      
+451       235.0     Error in odd_rhs: log argument < 0      
+452       235.5     1.6650382346845223                      
+453       236.0     Error in odd_rhs: log argument < 0      
+454       236.5     Error in even_rhs: log argument < 0     
+455       237.0     1.7717380748365639                      
+456       237.5     Error in even_rhs: log argument < 0     
+457       238.0     1.5914373606927448                      
+458       238.5     Error in even_rhs: log argument < 0     
+459       239.0     1.817118659906876                       
+460       239.5     Error in even_rhs: log argument < 0     
+461       240.0     Error in odd_rhs: log argument < 0      
+462       240.5     1.662851580608989                       
+463       241.0     Error in odd_rhs: log argument < 0      
+464       241.5     1.613231509224676                       
+465       242.0     Error in odd_rhs: log argument < 0      
+466       242.5     2.10934306926682                        
+467       243.0     1.959462837252391                       
+468       243.5     Error in even_rhs: log argument < 0     
+469       244.0     1.6005814723536866                      
+470       244.5     Error in even_rhs: log argument < 0     
+471       245.0     1.697151799066092                       
+472       245.5     Error in even_rhs: log argument < 0     
+473       246.0     Error in odd_rhs: log argument < 0      
+474       246.5     1.7558689261877234                      
+475       247.0     Error in odd_rhs: log argument < 0      
+476       247.5     1.5921593069386095                      
+477       248.0     Error in odd_rhs: log argument < 0      
+478       248.5     1.8379844365779896                      
+479       249.0     2.583988464513033                       
+480       249.5     Error in even_rhs: log argument < 0     
+481       250.0     1.63808024560024                        
+482       250.5     Error in even_rhs: log argument < 0     
+483       251.0     1.6301425722976084                      
+484       251.5     Error in even_rhs: log argument < 0     
+485       252.0     2.3720476108241138                      
+486       252.5     1.927520395151503                       
+487       253.0     Error in odd_rhs: log argument < 0      
+488       253.5     1.5979646572609325                      
+489       254.0     Error in odd_rhs: log argument < 0      
+490       254.5     1.7086354971788416                      
+491       255.0     Error in odd_rhs: log argument < 0      
+492       255.5     Error in even_rhs: log argument < 0     
+493       256.0     1.7116190841961878                      
+494       256.5     Error in even_rhs: log argument < 0     
+495       257.0     1.597381016145697                       
+496       257.5     Error in even_rhs: log argument < 0     
+497       258.0     1.9200998304055217                      
+498       258.5     2.404670099605681                       
+499       259.0     Error in odd_rhs: log argument < 0      
+500       259.5     1.6316568668723868                      
+501       260.0     Error in odd_rhs: log argument < 0      
+502       260.5     1.636432892341699                       
+503       261.0     Error in odd_rhs: log argument < 0      
+504       261.5     2.5294275227492355                      
+505       262.0     1.8434505946918172                      
+506       262.5     Error in even_rhs: log argument < 0     
+507       263.0     1.592403085548263                       
+508       263.5     Error in even_rhs: log argument < 0     
+509       264.0     1.7521022678850546                      
+510       264.5     Error in even_rhs: log argument < 0     
+511       265.0     Error in odd_rhs: log argument < 0      
+512       265.5     1.6999312914335591                      
+513       266.0     Error in odd_rhs: log argument < 0      
+514       266.5     1.5998903925746317                      
+515       267.0     Error in odd_rhs: log argument < 0      
+516       267.5     1.9511874198541796                      
+517       268.0     2.123360052667407                       
+518       268.5     Error in even_rhs: log argument < 0     
+519       269.0     1.6143443153386188                      
+520       269.5     Error in even_rhs: log argument < 0     
+521       270.0     1.660730477753569                       
+522       270.5     Error in even_rhs: log argument < 0     
+523       271.0     Error in odd_rhs: log argument < 0      
+524       271.5     1.822145672087501                       
+525       272.0     Error in odd_rhs: log argument < 0      
+526       272.5     1.5915782213468073                      
+527       273.0     Error in odd_rhs: log argument < 0      
+528       273.5     1.7676817341472728                      
+529       274.0     Error in odd_rhs: log argument < 0      
+530       274.5     Error in even_rhs: log argument < 0     
+531       275.0     1.6672391920957854                      
+532       275.5     Error in even_rhs: log argument < 0     
+533       276.0     1.6110806761957164                      
+534       276.5     Error in even_rhs: log argument < 0     
+535       277.0     2.0829058038301227                      
+536       277.5     2.0704295052035753                      
+537       278.0     Error in odd_rhs: log argument < 0      
+538       278.5     1.6100446937557376                      
+539       279.0     Error in odd_rhs: log argument < 0      
+540       279.5     1.6695038723294668                      
+541       280.0     Error in odd_rhs: log argument < 0      
+542       280.5     Error in even_rhs: log argument < 0     
+543       281.0     1.7636595329285576                      
+544       281.5     Error in even_rhs: log argument < 0     
+545       282.0     1.5917464673773367                      
+546       282.5     Error in even_rhs: log argument < 0     
+547       283.0     1.8273299334347886                      
+548       283.5     Error in even_rhs: log argument < 0     
+549       284.0     Error in odd_rhs: log argument < 0      
+550       284.5     1.6586271119762441                      
+551       285.0     Error in odd_rhs: log argument < 0      
+552       285.5     1.615498345643002                       
+553       286.0     Error in odd_rhs: log argument < 0      
+554       286.5     2.1381828329820287                      
+555       287.0     1.9430587464270288                      
+556       287.5     Error in even_rhs: log argument < 0     
+557       288.0     1.5992195009984886                      
+558       288.5     Error in even_rhs: log argument < 0     
+559       289.0     1.702789506258366                       
+560       289.5     Error in even_rhs: log argument < 0     
+561       290.0     Error in odd_rhs: log argument < 0      
+562       290.5     1.7483658638568669                      
+563       291.0     Error in odd_rhs: log argument < 0      
+564       291.5     1.5926754370936849                      
+565       292.0     Error in odd_rhs: log argument < 0      
+566       292.5     1.8490931463999623                      
+567       293.0     2.4822269071181413                      
+568       293.5     Error in even_rhs: log argument < 0     
+569       294.0     1.6348027063875439                      
+570       294.5     Error in even_rhs: log argument < 0     
+571       295.0     1.6332198216541167                      
+572       295.5     Error in even_rhs: log argument < 0     
+573       296.0     2.441316003717623                       
+574       296.5     1.9127948173317153                      
+575       297.0     Error in odd_rhs: log argument < 0      
+576       297.5     1.5968182528511055                      
+577       298.0     Error in odd_rhs: log argument < 0      
+578       298.5     1.7146871913708832                      
+579       299.0     Error in odd_rhs: log argument < 0      
+580       299.5     Error in even_rhs: log argument < 0     
+581       300.0     1.7056741752937645                      
+582       300.5     Error in even_rhs: log argument < 0     
+583       301.0     1.5985812596231632                      
+584       301.5     Error in even_rhs: log argument < 0     
+585       302.0     1.9352178464971241                      
+586       302.5     2.342106846688649                       
+587       303.0     Error in odd_rhs: log argument < 0      
+588       303.5     1.6286455306501801                      
+589       304.0     Error in odd_rhs: log argument < 0      
+590       304.5     1.6397789462892536                      
+591       305.0     Error in odd_rhs: log argument < 0      
+592       305.5     2.6502304927303704                      
+593       306.0     1.8325784414568875                      
+594       306.5     Error in even_rhs: log argument < 0     
+595       307.0     1.5919390554886017                      
+596       307.5     Error in even_rhs: log argument < 0     
+597       308.0     1.759744810762773                       
+598       308.5     Error in even_rhs: log argument < 0     
+599       309.0     Error in odd_rhs: log argument < 0      
+600       309.5     1.6943930947229442                      
+601       310.0     Error in odd_rhs: log argument < 0      
+602       310.5     1.601307049914904                       
+603       311.0     Error in odd_rhs: log argument < 0      
+604       311.5     1.9680670273975396                      
+605       312.0     2.0957894442059875                      
+606       312.5     Error in even_rhs: log argument < 0     
+607       313.0     1.6121368693582765                      
+608       313.5     Error in even_rhs: log argument < 0     
+609       314.0     1.6650345020592698                      
+610       314.5     Error in even_rhs: log argument < 0     
+611       315.0     Error in odd_rhs: log argument < 0      
+612       315.5     1.8121424435612927                      
+613       316.0     Error in odd_rhs: log argument < 0      
+614       316.5     1.5913209699601925                      
+615       317.0     Error in odd_rhs: log argument < 0      
+616       317.5     1.7759137748160818                      
+617       318.0     Error in odd_rhs: log argument < 0      
+618       318.5     Error in even_rhs: log argument < 0     
+619       319.0     1.6628552446112268                      
+620       319.5     Error in even_rhs: log argument < 0     
+621       320.0     1.6132296296515882                      
+622       320.5     Error in even_rhs: log argument < 0     
+623       321.0     2.1093196057062737                      
+624       321.5     2.047003215279281                       
+625       322.0     Error in odd_rhs: log argument < 0      
+626       322.5     1.6080698669395252                      
+627       323.0     Error in odd_rhs: log argument < 0      
+628       323.5     1.674135439830071                       
+629       324.0     Error in odd_rhs: log argument < 0      
+630       324.5     Error in even_rhs: log argument < 0     
+631       325.0     1.7558754320637568                      
+632       325.5     Error in even_rhs: log argument < 0     
+633       326.0     1.5921589116868469                      
+634       326.5     Error in even_rhs: log argument < 0     
+635       327.0     1.8379751802930726                      
+636       327.5     Error in even_rhs: log argument < 0     
+637       328.0     Error in odd_rhs: log argument < 0      
+638       328.5     1.6545579373088855                      
+639       329.0     Error in odd_rhs: log argument < 0      
+640       329.5     1.617884602727949                       
+641       330.0     Error in odd_rhs: log argument < 0      
+642       330.5     2.1699140603944613                      
+643       331.0     1.9275332625502948                      
+644       331.5     Error in even_rhs: log argument < 0     
+645       332.0     1.5979656789239118                      
+646       332.5     Error in even_rhs: log argument < 0     
+647       333.0     1.7086304355821644                      
+648       333.5     Error in even_rhs: log argument < 0     
+649       334.0     Error in odd_rhs: log argument < 0      
+650       334.5     1.7411310503740747                      
+651       335.0     Error in odd_rhs: log argument < 0      
+652       335.5     1.5932954911559947                      
+653       336.0     Error in odd_rhs: log argument < 0      
+654       336.5     1.860697369385401                       
+655       337.0     2.4047288290097835                      
+656       337.5     Error in even_rhs: log argument < 0     
+657       338.0     1.6316594865109817                      
+658       338.5     Error in even_rhs: log argument < 0     
+659       339.0     1.636430101700512                       
+660       339.5     Error in even_rhs: log argument < 0     
+661       340.0     2.5293415153458065                      
+662       340.5     1.8987998160268325                      
+663       341.0     Error in odd_rhs: log argument < 0      
+664       341.5     1.5957784276873586                      
+665       342.0     Error in odd_rhs: log argument < 0      
+666       342.5     1.7209573817167798                      
+667       343.0     Error in odd_rhs: log argument < 0      
+668       343.5     Error in even_rhs: log argument < 0     
+669       344.0     1.6999360907629808                      
+670       344.5     Error in even_rhs: log argument < 0     
+671       345.0     1.5998892328296654                      
+672       345.5     Error in even_rhs: log argument < 0     
+673       346.0     1.95117345503492                        
+674       346.5     2.2896627618032808                      
+675       347.0     Error in odd_rhs: log argument < 0      
+676       347.5     1.6257635702122566                      
+677       348.0     Error in odd_rhs: log argument < 0      
+678       348.5     1.64326345268186                        
+679       349.0     Error in odd_rhs: log argument < 0      
+680       349.5     2.843532964201809                       
+681       350.0     1.822154364259886                       
+682       350.5     Error in even_rhs: log argument < 0     
+683       351.0     1.591578484325762                       
+684       351.5     Error in even_rhs: log argument < 0     
+685       352.0     1.7676748560699334                      
+686       352.5     Error in even_rhs: log argument < 0     
+687       353.0     Error in odd_rhs: log argument < 0      
+688       353.5     1.6890479883357479                      
+689       354.0     Error in odd_rhs: log argument < 0      
+690       354.5     1.6028332402455663                      
+691       355.0     Error in odd_rhs: log argument < 0      
+692       355.5     1.9859699824577999                      
+693       356.0     2.0704502243755565                      
+694       356.5     Error in even_rhs: log argument < 0     
+695       357.0     1.6100464241355121                      
+696       357.5     Error in even_rhs: log argument < 0     
+697       358.0     1.6695000003690483                      
+698       358.5     Error in even_rhs: log argument < 0     
+699       359.0     Error in odd_rhs: log argument < 0      
+700       359.5     1.8025348323622519                      
+701       360.0     Error in odd_rhs: log argument < 0      
+702       360.5     1.591166788768424                       
+703       361.0     Error in odd_rhs: log argument < 0      
+704       361.5     1.7844630781902182                      
+705       362.0     Error in odd_rhs: log argument < 0      
+706       362.5     Error in even_rhs: log argument < 0     
+707       363.0     1.6586306420731642                      
+708       363.5     Error in even_rhs: log argument < 0     
+709       364.0     1.6154963651083165                      
+710       364.5     Error in even_rhs: log argument < 0     
+711       365.0     2.1381571245160598                      
+712       365.5     2.0252333943813796                      
+713       366.0     Error in odd_rhs: log argument < 0      
+714       366.5     1.6062091785399149                      
+715       367.0     Error in odd_rhs: log argument < 0      
+716       367.5     1.6789376845542356                      
+717       368.0     Error in odd_rhs: log argument < 0      
+718       368.5     Error in even_rhs: log argument < 0     
+719       369.0     1.7483721361477902                      
+720       369.5     Error in even_rhs: log argument < 0     
+721       370.0     1.592674953509687                       
+722       370.5     Error in even_rhs: log argument < 0     
+723       371.0     1.8490834825635718                      
+724       371.5     Error in even_rhs: log argument < 0     
+725       372.0     Error in odd_rhs: log argument < 0      
+726       372.5     1.6506402552293078                      
+727       373.0     Error in odd_rhs: log argument < 0      
+728       373.5     1.6203920286548206                      
+729       374.0     Error in odd_rhs: log argument < 0      
+730       374.5     2.205156345619573                       
+731       375.0     1.912807034862271                       
+732       375.5     Error in even_rhs: log argument < 0     
+733       376.0     1.5968191834651748                      
+734       376.5     Error in even_rhs: log argument < 0     
+735       377.0     1.7146819471970864                      
+736       377.5     Error in even_rhs: log argument < 0     
+737       378.0     Error in odd_rhs: log argument < 0      
+738       378.5     1.7341529205380857                      
+739       379.0     Error in odd_rhs: log argument < 0      
+740       379.5     1.594019862298162                       
+741       380.0     Error in odd_rhs: log argument < 0      
+742       380.5     1.8728334138195248                      
+743       381.0     2.342155309631166                       
+744       381.5     Error in even_rhs: log argument < 0     
+745       382.0     1.6286480391391553                      
+746       382.5     Error in even_rhs: log argument < 0     
+747       383.0     1.6397760389841387                      
+748       383.5     Error in even_rhs: log argument < 0     
+749       384.0     2.6501061521724654                      
+750       384.5     1.8854756521817169                      
+751       385.0     Error in odd_rhs: log argument < 0      
+752       385.5     1.5948445089820467                      
+753       386.0     Error in odd_rhs: log argument < 0      
+754       386.5     1.7274545745170462                      
+755       387.0     Error in odd_rhs: log argument < 0      
+756       387.5     Error in even_rhs: log argument < 0     
+757       388.0     1.6943977268981687                      
+758       388.5     Error in even_rhs: log argument < 0     
+759       389.0     1.6013057973260574                      
+760       389.5     Error in even_rhs: log argument < 0     
+761       390.0     1.9680522362270179                      
+762       390.5     2.2445404871521366                      
+763       391.0     Error in odd_rhs: log argument < 0      
+764       391.5     1.6230087345911388                      
+765       392.0     Error in odd_rhs: log argument < 0      
+766       392.5     1.646889381133481                       
+767       393.0     Error in odd_rhs: log argument < 0      
+768       393.5     3.3748424704651514                      
+769       394.0     1.8121507886717405                      
+770       394.5     Error in even_rhs: log argument < 0     
+771       395.0     1.591321145125732                       
+772       395.5     Error in even_rhs: log argument < 0     
+773       396.0     1.7759066334265672                      
+774       396.5     Error in even_rhs: log argument < 0     
+775       397.0     Error in odd_rhs: log argument < 0      
+776       397.5     1.6838897872481733                      
+777       398.0     Error in odd_rhs: log argument < 0      
+778       398.5     1.604469986377712                       
+779       399.0     Error in odd_rhs: log argument < 0      
+780       399.5     2.005014354736046                       
+781       400.0     2.047022423518151                       
+782       400.5     Error in even_rhs: log argument < 0     
+783       401.0     1.608071499567392                       
+784       401.5     Error in even_rhs: log argument < 0     
+785       402.0     1.674131424621492                       
+786       402.5     Error in even_rhs: log argument < 0     
+787       403.0     Error in odd_rhs: log argument < 0      
+788       403.5     1.7933003456054828                      
+789       404.0     Error in odd_rhs: log argument < 0      
+790       404.5     1.5911155810377788                      
+791       405.0     Error in odd_rhs: log argument < 0      
+792       405.5     1.7933466061108858                      
+793       406.0     Error in odd_rhs: log argument < 0      
+794       406.5     Error in even_rhs: log argument < 0     
+795       407.0     1.6545613368393437                      
+796       407.5     Error in even_rhs: log argument < 0     
+797       408.0     1.6178825197912514                      
+798       408.5     Error in even_rhs: log argument < 0     
+799       409.0     2.169885652431092                       
+800       409.5     2.0049139415101473                      
+801       410.0     Error in odd_rhs: log argument < 0      
+802       410.5     1.6044613424669016                      
+803       411.0     Error in odd_rhs: log argument < 0      
+804       411.5     1.6839156723285087                      
+805       412.0     Error in odd_rhs: log argument < 0      
+806       412.5     Error in even_rhs: log argument < 0     
+807       413.0     1.741137099329299                       
+808       413.5     Error in even_rhs: log argument < 0     
+809       414.0     1.5932949189337022                      
+810       414.5     Error in even_rhs: log argument < 0     
+811       415.0     1.8606872688186469                      
+812       415.5     3.36813069943797                        
+813       416.0     Error in odd_rhs: log argument < 0      
+814       416.5     1.6468704938497214                      
+815       417.0     Error in odd_rhs: log argument < 0      
+816       417.5     1.6230224879527348                      
+817       418.0     Error in odd_rhs: log argument < 0      
+818       418.5     2.244755677541677                       
+819       419.0     1.8988114381015155                      
+820       419.5     Error in even_rhs: log argument < 0     
+821       420.0     1.5957792678565546                      
+822       420.5     Error in even_rhs: log argument < 0     
+823       421.0     1.720951947986632                       
+824       421.5     Error in even_rhs: log argument < 0     
+825       422.0     Error in odd_rhs: log argument < 0      
+826       422.5     1.7274207922863167                      
+827       423.0     Error in odd_rhs: log argument < 0      
+828       423.5     1.594849011724265                       
+829       424.0     Error in odd_rhs: log argument < 0      
+830       424.5     1.8855421037566586                      
+831       425.0     2.289703991315581                       
+832       425.5     Error in even_rhs: log argument < 0     
+833       426.0     1.625765969528141                       
+834       426.5     Error in even_rhs: log argument < 0     
+835       427.0     1.6432604262613386                      
+836       427.5     Error in even_rhs: log argument < 0     
+837       428.0     2.8433088996732527                      
+838       428.5     1.872769999853612                       
+839       429.0     Error in odd_rhs: log argument < 0      
+840       429.5     1.5940158960926751                      
+841       430.0     Error in odd_rhs: log argument < 0      
+842       430.5     1.734187933678358                       
+843       431.0     Error in odd_rhs: log argument < 0      
+844       431.5     Error in even_rhs: log argument < 0     
+845       432.0     1.689052458804667                       
+846       432.5     Error in even_rhs: log argument < 0     
+847       433.0     1.6028318939772872                      
+848       433.5     Error in even_rhs: log argument < 0     
+849       434.0     1.985954272629585                       
+850       434.5     2.2049660846740697                      
+851       435.0     Error in odd_rhs: log argument < 0      
+852       435.5     1.620378908737758                       
+853       436.0     Error in odd_rhs: log argument < 0      
+854       436.5     1.6506598894413567                      
+855       437.0     Error in odd_rhs: log argument < 0      
+856       437.5     Error in even_rhs: log argument < 0     
+857       438.0     1.8025428505261856                      
+858       438.5     Error in even_rhs: log argument < 0     
+859       439.0     1.5911668762304993                      
+860       439.5     Error in even_rhs: log argument < 0     
+861       440.0     1.7844556596862358                      
+862       440.5     Error in even_rhs: log argument < 0     
+863       441.0     Error in odd_rhs: log argument < 0      
+864       441.5     1.6789127106809574                      
+865       442.0     Error in odd_rhs: log argument < 0      
+866       442.5     1.6062183958318925                      
+867       443.0     Error in odd_rhs: log argument < 0      
+868       443.5     2.025340759403554                       
+869       444.0     2.0252512859282423                      
+870       444.5     Error in even_rhs: log argument < 0     
+871       445.0     1.6062107145507432                      
+872       445.5     Error in even_rhs: log argument < 0     
+873       446.0     1.6789335219236121                      
+874       446.5     Error in even_rhs: log argument < 0     
+875       447.0     Error in odd_rhs: log argument < 0      
+876       447.5     1.7844185707985576                      
+877       448.0     Error in odd_rhs: log argument < 0      
+878       448.5     1.5911673146604701                      
+879       449.0     Error in odd_rhs: log argument < 0      
+880       449.5     1.8025829454014886                      
+881       450.0     Error in odd_rhs: log argument < 0      
+882       450.5     Error in even_rhs: log argument < 0     
+883       451.0     1.6506435273299411                      
+884       451.5     Error in even_rhs: log argument < 0     
+885       452.0     1.6203898417790412                      
+886       452.5     Error in even_rhs: log argument < 0     
+887       453.0     2.2051246276210117                      
+888       453.5     1.9858757358763417                      
+889       454.0     Error in odd_rhs: log argument < 0      
+890       454.5     1.6028251638378852                      
+891       455.0     Error in odd_rhs: log argument < 0      
+892       455.5     1.6890748131812816                      
+893       456.0     Error in odd_rhs: log argument < 0      
+894       456.5     Error in even_rhs: log argument < 0     
+895       457.0     1.7341587556157443                      
+896       457.5     Error in even_rhs: log argument < 0     
+897       458.0     1.5940192010740477                      
+898       458.5     Error in even_rhs: log argument < 0     
+899       459.0     1.8728228437884107                      
+900       459.5     2.842190865177902                       
+901       460.0     Error in odd_rhs: log argument < 0      
+902       460.5     1.6432452956962047                      
+903       461.0     Error in odd_rhs: log argument < 0      
+904       461.5     1.6257779674897397                      
+905       462.0     Error in odd_rhs: log argument < 0      
+906       462.5     2.289910217662096                       
+907       463.0     1.8854867263241035                      
+908       463.5     Error in even_rhs: log argument < 0     
+909       464.0     1.594845259248257                       
+910       464.5     Error in even_rhs: log argument < 0     
+911       465.0     1.727448943717421                       
+912       465.5     Error in even_rhs: log argument < 0     
+913       466.0     Error in odd_rhs: log argument < 0      
+914       466.5     1.7209247818033468                      
+915       467.0     Error in odd_rhs: log argument < 0      
+916       467.5     1.595783469854022                       
+917       468.0     Error in odd_rhs: log argument < 0      
+918       468.5     1.8988695557635942                      
+919       469.0     2.2445763422415275                      
+920       469.5     Error in even_rhs: log argument < 0     
+921       470.0     1.623011026591541                       
+922       470.5     Error in even_rhs: log argument < 0     
+923       471.0     1.646886232990889                       
+924       471.5     Error in even_rhs: log argument < 0     
+925       472.0     3.373714274216122                       
+926       472.5     1.8606367717625656                      
+927       473.0     Error in odd_rhs: log argument < 0      
+928       473.5     1.5932920589564277                      
+929       474.0     Error in odd_rhs: log argument < 0      
+930       474.5     1.74116734689583                        
+931       475.0     Error in odd_rhs: log argument < 0      
+932       475.5     Error in even_rhs: log argument < 0     
+933       476.0     1.683894101100032                       
+934       476.5     Error in even_rhs: log argument < 0     
+935       477.0     1.6044685455235717                      
+936       477.5     Error in even_rhs: log argument < 0     
+937       478.0     2.0049976168799373                      
+938       478.5     2.1697436505759597                      
+939       479.0     Error in odd_rhs: log argument < 0      
+940       479.5     1.6178721064251111                      
+941       480.0     Error in odd_rhs: log argument < 0      
+942       480.5     1.6545783361387156                      
+943       481.0     Error in odd_rhs: log argument < 0      
+944       481.5     Error in even_rhs: log argument < 0     
+945       482.0     1.793308055050739                       
+946       482.5     Error in even_rhs: log argument < 0     
+947       483.0     1.5911155808512385                      
+948       483.5     Error in even_rhs: log argument < 0     
+949       484.0     1.7933388953876346                      
+950       484.5     Error in even_rhs: log argument < 0     
+951       485.0     Error in odd_rhs: log argument < 0      
+952       485.5     1.6741113504340084                      
+953       486.0     Error in odd_rhs: log argument < 0      
+954       486.5     1.6080796639477168                      
+955       487.0     Error in odd_rhs: log argument < 0      
+956       487.5     2.0471184826850397                      
+957       488.0     2.004930674729653                       
+958       488.5     Error in even_rhs: log argument < 0     
+959       489.0     1.6044627829163671                      
+960       489.5     Error in even_rhs: log argument < 0     
+961       490.0     1.683911357820244                       
+962       490.5     Error in even_rhs: log argument < 0     
+963       491.0     Error in odd_rhs: log argument < 0      
+964       491.5     1.7758709299269948                      
+965       492.0     Error in odd_rhs: log argument < 0      
+966       492.5     1.591322022074077                       
+967       493.0     Error in odd_rhs: log argument < 0      
+968       493.5     1.8121925185239687                      
+969       494.0     3.369239846696228                       
+970       494.5     Error in even_rhs: log argument < 0     
+971       495.0     1.6468736414683893                      
+972       495.5     Error in even_rhs: log argument < 0     
+973       496.0     1.6230201954992678                      
+974       496.5     Error in even_rhs: log argument < 0     
+975       497.0     2.2447198024983157                      
+976       497.5     1.967978291482968                       
+977       498.0     Error in odd_rhs: log argument < 0      
+978       498.5     1.6012995355727007                      
+979       499.0     Error in odd_rhs: log argument < 0      
+980       499.5     1.694420889873539                       
+981       500.0     Error in odd_rhs: log argument < 0      
+982       500.5     Error in even_rhs: log argument < 0     
+983       501.0     1.7274264222302875                      
+984       501.5     Error in even_rhs: log argument < 0     
+985       502.0     1.594848261076401                       
+986       502.5     Error in even_rhs: log argument < 0     
+987       503.0     1.885531027373964                       
+988       503.5     2.64948515557311                        
+989       504.0     Error in odd_rhs: log argument < 0      
+990       504.5     1.639761503963762                       
+991       505.0     Error in odd_rhs: log argument < 0      
+992       505.5     1.6286605829906786                      
+993       506.0     Error in odd_rhs: log argument < 0      
+994       506.5     2.3423977327797374                      
+995       507.0     1.8727805678112244                      
+996       507.5     Error in even_rhs: log argument < 0     
+997       508.0     1.5940165569370572                      
+998       508.5     Error in even_rhs: log argument < 0     
+999       509.0     1.7341820977092381                      
+1000      509.5     Error in even_rhs: log argument < 0     
+1001      510.0     Error in odd_rhs: log argument < 0      
+1002      510.5     1.7146557287031314                      
+1003      511.0     Error in odd_rhs: log argument < 0      
+1004      511.5     1.596823837694326                       
+1005      512.0     Error in odd_rhs: log argument < 0      
+1006      512.5     1.9128681304521251                      
+1007      513.0     2.2049977869926947                      
+1008      513.5     Error in even_rhs: log argument < 0     
+1009      514.0     1.62038109516767                        
+1010      514.5     Error in even_rhs: log argument < 0     
+1011      515.0     1.6506566168046333                      
+1012      515.5     Error in even_rhs: log argument < 0     
+1013      516.0     Error in odd_rhs: log argument < 0      
+1014      516.5     1.849035168765188                       
+1015      517.0     Error in odd_rhs: log argument < 0      
+1016      517.5     1.592672536719611                       
+1017      518.0     Error in odd_rhs: log argument < 0      
+1018      518.5     1.7484035005185017                      
+1019      519.0     Error in odd_rhs: log argument < 0      
+1020      519.5     Error in even_rhs: log argument < 0     
+1021      520.0     1.6789168726747707                      
+1022      520.5     Error in even_rhs: log argument < 0     
+1023      521.0     1.6062168594120587                      
+1024      521.5     Error in even_rhs: log argument < 0     
+1025      522.0     2.0253228626093107                      
+1026      522.5     2.1380286134795                         
+1027      523.0     Error in odd_rhs: log argument < 0      
+1028      523.5     1.615486463733235                       
+1029      524.0     Error in odd_rhs: log argument < 0      
+1030      524.5     1.6586482942461678                      
+1031      525.0     Error in odd_rhs: log argument < 0      
+1032      525.5     Error in even_rhs: log argument < 0     
+1033      526.0     1.7844259880918316                      
+1034      526.5     Error in even_rhs: log argument < 0     
+1035      527.0     1.591167226825197                       
+1036      527.5     Error in even_rhs: log argument < 0     
+1037      528.0     1.8025749258856327                      
+1038      528.5     Error in even_rhs: log argument < 0     
+1039      529.0     Error in odd_rhs: log argument < 0      
+1040      529.5     1.669480642370775                       
+1041      530.0     Error in odd_rhs: log argument < 0      
+1042      530.5     1.610055077290391                       
+1043      531.0     Error in odd_rhs: log argument < 0      
+1044      531.5     2.0705538409639748                      
+1045      532.0     1.9858914415755424                      
+1046      532.5     Error in even_rhs: log argument < 0     
+1047      533.0     1.602826509705502                       
+1048      533.5     Error in even_rhs: log argument < 0     
+1049      534.0     1.6890703420350106                      
+1050      534.5     Error in even_rhs: log argument < 0     
+1051      535.0     Error in odd_rhs: log argument < 0      
+1052      535.5     1.7676404689626772                      
+1053      536.0     Error in odd_rhs: log argument < 0      
+1054      536.5     1.591579800342941                       
+1055      537.0     Error in odd_rhs: log argument < 0      
+1056      537.5     1.8221978296918788                      
+1057      538.0     2.8424141676825743                      
+1058      538.5     Error in even_rhs: log argument < 0     
+1059      539.0     1.6432483216042415                      
+1060      539.5     Error in even_rhs: log argument < 0     
+1061      540.0     1.6257755677131254                      
+1062      540.5     Error in even_rhs: log argument < 0     
+1063      541.0     2.2898689618837267                      
+1064      541.5     1.9511036409622675                      
+1065      542.0     Error in odd_rhs: log argument < 0      
+1066      542.5     1.5998834352854847                      
+1067      543.0     Error in odd_rhs: log argument < 0      
+1068      543.5     1.6999600895813398                      
+1069      544.0     Error in odd_rhs: log argument < 0      
+1070      544.5     Error in even_rhs: log argument < 0     
+1071      545.0     1.720930214711028                       
+1072      545.5     Error in even_rhs: log argument < 0     
+1073      546.0     1.5957826293009956                      
+1074      546.5     Error in even_rhs: log argument < 0     
+1075      547.0     1.8988579312592422                      
+1076      547.5     2.528911816940309                       
+1077      548.0     Error in odd_rhs: log argument < 0      
+1078      548.5     1.63641614996942                        
+1079      549.0     Error in odd_rhs: log argument < 0      
+1080      549.5     1.6316725861366361                      
+1081      550.0     Error in odd_rhs: log argument < 0      
+1082      550.5     2.4050226347685113                      
+1083      551.0     1.8606468704035022                      
+1084      551.5     Error in even_rhs: log argument < 0     
+1085      552.0     1.5932926308006583                      
+1086      552.5     Error in even_rhs: log argument < 0     
+1087      553.0     1.7411612970104462                      
+1088      553.5     Error in even_rhs: log argument < 0     
+1089      554.0     Error in odd_rhs: log argument < 0      
+1090      554.5     1.7086051298878904                      
+1091      555.0     Error in odd_rhs: log argument < 0      
+1092      555.5     1.5979707884057321                      
+1093      556.0     Error in odd_rhs: log argument < 0      
+1094      556.5     1.9275976082259647                      
+1095      557.0     2.169772045886883                       
+1096      557.5     Error in even_rhs: log argument < 0     
+1097      558.0     1.6178741889226964                      
+1098      558.5     Error in even_rhs: log argument < 0     
+1099      559.0     1.6545749360592232                      
+1100      559.5     Error in even_rhs: log argument < 0     
+1101      560.0     Error in odd_rhs: log argument < 0      
+1102      560.5     1.8379289038999753                      
+1103      561.0     Error in odd_rhs: log argument < 0      
+1104      561.5     1.5921569365544055                      
+1105      562.0     Error in odd_rhs: log argument < 0      
+1106      562.5     1.755907964496344                       
+1107      563.0     Error in odd_rhs: log argument < 0      
+1108      563.5     Error in even_rhs: log argument < 0     
+1109      564.0     1.674115365024127                       
+1110      564.5     Error in even_rhs: log argument < 0     
+1111      565.0     1.6080780309061837                      
+1112      565.5     Error in even_rhs: log argument < 0     
+1113      566.0     2.0470992684548563                      
+1114      566.5     2.10920231415782                        
+1115      567.0     Error in odd_rhs: log argument < 0      
+1116      567.5     1.6132202330666985                      
+1117      568.0     Error in odd_rhs: log argument < 0      
+1118      568.5     1.6628735663548169                      
+1119      569.0     Error in odd_rhs: log argument < 0      
+1120      569.5     Error in even_rhs: log argument < 0     
+1121      570.0     1.775878070167209                       
+1122      570.5     Error in even_rhs: log argument < 0     
+1123      571.0     1.591321846534988                       
+1124      571.5     Error in even_rhs: log argument < 0     
+1125      572.0     1.8121841719801424                      
+1126      572.5     Error in even_rhs: log argument < 0     
+1127      573.0     Error in odd_rhs: log argument < 0      
+1128      573.5     1.6650158406884434                      
+1129      574.0     Error in odd_rhs: log argument < 0      
+1130      574.5     1.6121460173756599                      
+1131      575.0     Error in odd_rhs: log argument < 0      
+1132      575.5     2.0959018280796102                      
+1133      576.0     1.9679930789508588                      
+1134      576.5     Error in even_rhs: log argument < 0     
+1135      577.0     1.6013007877645904                      
+1136      577.5     Error in even_rhs: log argument < 0     
+1137      578.0     1.6944162569985521                      
+1138      578.5     Error in even_rhs: log argument < 0     
+1139      579.0     Error in odd_rhs: log argument < 0      
+1140      579.5     1.7597116768473724                      
+1141      580.0     Error in odd_rhs: log argument < 0      
+1142      580.5     1.5919408114019757                      
+1143      581.0     Error in odd_rhs: log argument < 0      
+1144      581.5     1.832623753845874                       
+1145      582.0     2.6496092608529342                      
+1146      582.5     Error in even_rhs: log argument < 0     
+1147      583.0     1.6397644107671503                      
+1148      583.5     Error in even_rhs: log argument < 0     
+1149      584.0     1.6286580740328163                      
+1150      584.5     Error in even_rhs: log argument < 0     
+1151      585.0     2.342349233684777                       
+1152      585.5     1.9351517701859655                      
+1153      586.0     Error in odd_rhs: log argument < 0      
+1154      586.5     1.5985759224541565                      
+1155      587.0     Error in odd_rhs: log argument < 0      
+1156      587.5     1.7056990391512794                      
+1157      588.0     Error in odd_rhs: log argument < 0      
+1158      588.5     Error in even_rhs: log argument < 0     
+1159      589.0     1.7146609720852686                      
+1160      589.5     Error in even_rhs: log argument < 0     
+1161      590.0     1.5968229066939872                      
+1162      590.5     Error in even_rhs: log argument < 0     
+1163      591.0     1.9128559102757465                      
+1164      591.5     2.4409876586336794                      
+1165      592.0     Error in odd_rhs: log argument < 0      
+1166      592.5     1.633206441685968                       
+1167      593.0     Error in odd_rhs: log argument < 0      
+1168      593.5     1.6348163723005875                      
+1169      594.0     Error in odd_rhs: log argument < 0      
+1170      594.5     2.4825994369479876                      
+1171      595.0     1.849044830807126                       
+1172      595.5     Error in even_rhs: log argument < 0     
+1173      596.0     1.5926730199269716                      
+1174      596.5     Error in even_rhs: log argument < 0     
+1175      597.0     1.7483972272555222                      
+1176      597.5     Error in even_rhs: log argument < 0     
+1177      598.0     Error in odd_rhs: log argument < 0      
+1178      598.5     1.702765080907771                       
+1179      599.0     Error in odd_rhs: log argument < 0      
+1180      599.5     1.5992250690727072                      
+1181      600.0     Error in odd_rhs: log argument < 0      
+1182      600.5     1.9431266557829452                      
+1183      601.0     2.1380543115154618                      
+1184      601.5     Error in even_rhs: log argument < 0     
+1185      602.0     1.6154884438351418                      
+1186      602.5     Error in even_rhs: log argument < 0     
+1187      603.0     1.6586447635864385                      
+1188      603.5     Error in even_rhs: log argument < 0     
+1189      604.0     Error in odd_rhs: log argument < 0      
+1190      604.5     1.8272855638940744                      
+1191      605.0     Error in odd_rhs: log argument < 0      
+1192      605.5     1.5917449326564073                      
+1193      606.0     Error in odd_rhs: log argument < 0      
+1194      606.5     1.763693289077379                       
+1195      607.0     Error in odd_rhs: log argument < 0      
+1196      607.5     Error in even_rhs: log argument < 0     
+1197      608.0     1.66948451372993                        
+1198      608.5     Error in even_rhs: log argument < 0     
+1199      609.0     1.6100533464919446                      
+1200      609.5     Error in even_rhs: log argument < 0     
+1201      610.0     2.070533114881908                       
+1202      610.5     2.0827979949894306                      
+1203      611.0     Error in odd_rhs: log argument < 0      
+1204      611.5     1.6110717776609613                      
+1205      612.0     Error in odd_rhs: log argument < 0      
+1206      612.5     1.6672582011920956                      
+1207      613.0     Error in odd_rhs: log argument < 0      
+1208      613.5     Error in even_rhs: log argument < 0     
+1209      614.0     1.7676473459469                         
+1210      614.5     Error in even_rhs: log argument < 0     
+1211      615.0     1.591579536989851                       
+1212      615.5     Error in even_rhs: log argument < 0     
+1213      616.0     1.8221891359960845                      
+1214      616.5     Error in even_rhs: log argument < 0     
+1215      617.0     Error in odd_rhs: log argument < 0      
+1216      617.5     1.6607124946584426                      
+1217      618.0     Error in odd_rhs: log argument < 0      
+1218      618.5     1.6143539647371057                      
+1219      619.0     Error in odd_rhs: log argument < 0      
+1220      619.5     2.1234827365152085                      
+1221      620.0     1.9511176024405013                      
+1222      620.5     Error in even_rhs: log argument < 0     
+1223      621.0     1.5998845946369027                      
+1224      621.5     Error in even_rhs: log argument < 0     
+1225      622.0     1.6999552895281538                      
+1226      622.5     Error in even_rhs: log argument < 0     
+1227      623.0     Error in odd_rhs: log argument < 0      
+1228      623.5     1.7520703291372386                      
+1229      624.0     Error in odd_rhs: log argument < 0      
+1230      624.5     1.5924052824641775                      
+1231      625.0     Error in odd_rhs: log argument < 0      
+1232      625.5     1.8434978777675404                      
+1233      626.0     2.5289977115125564                      
+1234      626.5     Error in even_rhs: log argument < 0     
+1235      627.0     1.6364189401189984                      
+1236      627.5     Error in even_rhs: log argument < 0     
+1237      628.0     1.6316699660204763                      
+1238      628.5     Error in even_rhs: log argument < 0     
+1239      629.0     2.4049638524390473                      
+1240      629.5     1.9200371544955472                      
+1241      630.0     Error in odd_rhs: log argument < 0      
+1242      630.5     1.5973761358503178                      
+1243      631.0     Error in odd_rhs: log argument < 0      
+1244      631.5     1.7116448444177108                      
+1245      632.0     Error in odd_rhs: log argument < 0      
+1246      632.5     Error in even_rhs: log argument < 0     
+1247      633.0     1.7086101907215459                      
+1248      633.5     Error in even_rhs: log argument < 0     
+1249      634.0     1.5979697663537766                      
+1250      634.5     Error in even_rhs: log argument < 0     
+1251      635.0     1.9275847379331181                      
+1252      635.5     2.3717820671619276                      
+1253      636.0     Error in odd_rhs: log argument < 0      
+1254      636.5     1.630129753252476                       
+1255      637.0     Error in odd_rhs: log argument < 0      
+1256      637.5     1.638094488980452                       
+1257      638.0     Error in odd_rhs: log argument < 0      
+1258      638.5     2.584496910157448                       
+1259      639.0     1.8379381585077927                      
+1260      639.5     Error in even_rhs: log argument < 0     
+1261      640.0     1.5921573314307118                      
+1262      640.5     Error in even_rhs: log argument < 0     
+1263      641.0     1.7559014576028105                      
+1264      641.5     Error in even_rhs: log argument < 0     
+1265      642.0     Error in odd_rhs: log argument < 0      
+1266      642.5     1.697128223827444                       
+1267      643.0     Error in odd_rhs: log argument < 0      
+1268      643.5     1.6005875026876895                      
+1269      644.0     Error in odd_rhs: log argument < 0      
+1270      644.5     1.9595346741570359                      
+1271      645.0     2.1092257689677743                      
+1272      645.5     Error in even_rhs: log argument < 0     
+1273      646.0     1.6132221122129398                      
+1274      646.5     Error in even_rhs: log argument < 0     
+1275      647.0     1.6628699017751039                      
+1276      647.5     Error in even_rhs: log argument < 0     
+1277      648.0     Error in odd_rhs: log argument < 0      
+1278      648.5     1.8170760799111632                      
+1279      649.0     Error in odd_rhs: log argument < 0      
+1280      649.5     1.5914362654174918                      
+1281      650.0     Error in odd_rhs: log argument < 0      
+1282      650.5     1.7717731152551905                      
+1283      651.0     Error in odd_rhs: log argument < 0      
+1284      651.5     Error in even_rhs: log argument < 0     
+1285      652.0     1.6650195727285595                      
+1286      652.5     Error in even_rhs: log argument < 0     
+1287      653.0     1.6121441876025673                      
+1288      653.5     Error in even_rhs: log argument < 0     
+1289      654.0     2.0958793480792144                      
+1290      654.5     2.058454816793727                       
+1291      655.0     Error in odd_rhs: log argument < 0      
+1292      655.5     1.6090395665385044                      
+1293      656.0     Error in odd_rhs: log argument < 0      
+1294      656.5     1.6718065118420506                      
+1295      657.0     Error in odd_rhs: log argument < 0      
+1296      657.5     Error in even_rhs: log argument < 0     
+1297      658.0     1.7597183032138328                      
+1298      658.5     Error in even_rhs: log argument < 0     
+1299      659.0     1.5919404600693174                      
+1300      659.5     Error in even_rhs: log argument < 0     
+1301      660.0     1.8326146907187422                      
+1302      660.5     Error in even_rhs: log argument < 0     
+1303      661.0     Error in odd_rhs: log argument < 0      
+1304      661.5     1.6565664275629282                      
+1305      662.0     Error in odd_rhs: log argument < 0      
+1306      662.5     1.6166805033625031                      
+1307      663.0     Error in odd_rhs: log argument < 0      
+1308      663.5     2.1537065413679164                      
+1309      664.0     1.9351649842356038                      
+1310      664.5     Error in even_rhs: log argument < 0     
+1311      665.0     1.5985769897317879                      
+1312      665.5     Error in even_rhs: log argument < 0     
+1313      666.0     1.7056940660799669                      
+1314      666.5     Error in even_rhs: log argument < 0     
+1315      667.0     Error in odd_rhs: log argument < 0      
+1316      667.5     1.7447033523874877                      
+1317      668.0     Error in odd_rhs: log argument < 0      
+1318      668.5     1.5929735065940336                      
+1319      669.0     Error in odd_rhs: log argument < 0      
+1320      669.5     1.8548509050377238                      
+1321      670.0     2.4410533012479982                      
+1322      670.5     Error in even_rhs: log argument < 0     
+1323      671.0     1.6332091174867636                      
+1324      671.5     Error in even_rhs: log argument < 0     
+1325      672.0     1.634813638923258                       
+1326      672.5     Error in even_rhs: log argument < 0     
+1327      673.0     2.4825248970239504                      
+1328      673.5     1.9056860922066772                      
+1329      674.0     Error in odd_rhs: log argument < 0      
+1330      674.5     1.5962832912142277                      
+1331      675.0     Error in odd_rhs: log argument < 0      
+1332      675.5     1.7178051341506628                      
+1333      676.0     Error in odd_rhs: log argument < 0      
+1334      676.5     Error in even_rhs: log argument < 0     
+1335      677.0     1.7027699656833537                      
+1336      677.5     Error in even_rhs: log argument < 0     
+1337      678.0     1.5992239553010794                      
+1338      678.5     Error in even_rhs: log argument < 0     
+1339      679.0     1.943113072639248                       
+1340      679.5     2.3147372492416416                      
+1341      680.0     Error in odd_rhs: log argument < 0      
+1342      680.5     1.6271836153695356                      
+1343      681.0     Error in odd_rhs: log argument < 0      
+1344      681.5     1.6415096449982116                      
+1345      682.0     Error in odd_rhs: log argument < 0      
+1346      682.5     2.733169433481104                       
+1347      683.0     1.8272944371735125                      
+1348      683.5     Error in even_rhs: log argument < 0     
+1349      684.0     1.5917452394507874                      
+1350      684.5     Error in even_rhs: log argument < 0     
+1351      685.0     1.7636865374208406                      
+1352      685.5     Error in even_rhs: log argument < 0     
+1353      686.0     Error in odd_rhs: log argument < 0      
+1354      686.5     1.6916877007563367                      
+1355      687.0     Error in odd_rhs: log argument < 0      
+1356      687.5     1.602058990360384                       
+1357      688.0     Error in odd_rhs: log argument < 0      
+1358      688.5     1.976914153980064                       
+1359      689.0     2.0828195537776755                      
+1360      689.5     Error in even_rhs: log argument < 0     
+1361      690.0     1.6110735571993948                      
+1362      690.5     Error in even_rhs: log argument < 0     
+1363      691.0     1.6672543991355884                      
+1364      691.5     Error in even_rhs: log argument < 0     
+1365      692.0     Error in odd_rhs: log argument < 0      
+1366      692.5     1.8072742858564406                      
+1367      693.0     Error in odd_rhs: log argument < 0      
+1368      693.5     1.591230740769513                       
+1369      694.0     Error in odd_rhs: log argument < 0      
+1370      694.5     1.7801623013763188                      
+1371      695.0     Error in odd_rhs: log argument < 0      
+1372      695.5     Error in even_rhs: log argument < 0     
+1373      696.0     1.660716091049472                       
+1374      696.5     Error in even_rhs: log argument < 0     
+1375      697.0     1.614352034685497                       
+1376      697.5     Error in even_rhs: log argument < 0     
+1377      698.0     2.123458195930203                       
+1378      698.5     2.0358880584100327                      
+1379      699.0     Error in odd_rhs: log argument < 0      
+1380      699.5     1.6071221698797087                      
+1381      700.0     Error in odd_rhs: log argument < 0      
+1382      700.5     1.676523095815874                       
+1383      701.0     Error in odd_rhs: log argument < 0      
+1384      701.5     Error in even_rhs: log argument < 0     
+1385      702.0     1.7520767164891238                      
+1386      702.5     Error in even_rhs: log argument < 0     
+1387      703.0     1.5924048429305866                      
+1388      703.5     Error in even_rhs: log argument < 0     
+1389      704.0     1.843488420458615                       
+1390      704.5     Error in even_rhs: log argument < 0     
+1391      705.0     Error in odd_rhs: log argument < 0      
+1392      705.5     1.6525737175880848                      
+1393      706.0     Error in odd_rhs: log argument < 0      
+1394      706.5     1.6191273255289937                      
+1395      707.0     Error in odd_rhs: log argument < 0      
+1396      707.5     2.1871098501821864                      
+1397      708.0     1.9200496885715757                      
+1398      708.5     Error in even_rhs: log argument < 0     
+1399      709.0     1.597377111754361                       
+1400      709.5     Error in even_rhs: log argument < 0     
+1401      710.0     1.7116396920625438                      
+1402      710.5     Error in even_rhs: log argument < 0     
+1403      711.0     Error in odd_rhs: log argument < 0      
+1404      711.5     1.7375987060651226                      
+1405      712.0     Error in odd_rhs: log argument < 0      
+1406      712.5     1.5936458434499032                      
+1407      713.0     Error in odd_rhs: log argument < 0      
+1408      713.5     1.8667171397318212                      
+1409      714.0     2.3718351585735546                      
+1410      714.5     Error in even_rhs: log argument < 0     
+1411      715.0     1.6301323168722481                      
+1412      715.5     Error in even_rhs: log argument < 0     
+1413      716.0     1.6380916401057632                      
+1414      716.5     Error in even_rhs: log argument < 0     
+1415      717.0     2.5843951578949342                      
+1416      717.5     1.8920346248348767                      
+1417      718.0     Error in odd_rhs: log argument < 0      
+1418      718.5     1.5952966791611736                      
+1419      719.0     Error in odd_rhs: log argument < 0      
+1420      719.5     1.7241881092989266                      
+1421      720.0     Error in odd_rhs: log argument < 0      
+1422      720.5     Error in even_rhs: log argument < 0     
+1423      721.0     1.6971329385905756                      
+1424      721.5     Error in even_rhs: log argument < 0     
+1425      722.0     1.600586296462799                       
+1426      722.5     Error in even_rhs: log argument < 0     
+1427      723.0     1.9595203053699026                      
+1428      723.5     2.2662378250440827                      
+1429      724.0     Error in odd_rhs: log argument < 0      
+1430      724.5     1.6243657064974706                      
+1431      725.0     Error in odd_rhs: log argument < 0      
+1432      725.5     1.6450647205422253                      
+1433      726.0     Error in odd_rhs: log argument < 0      
+1434      726.5     3.0124987425578778                      
+1435      727.0     1.8170845953194974                      
+1436      727.5     Error in even_rhs: log argument < 0     
+1437      728.0     1.591436484323018                       
+1438      728.5     Error in even_rhs: log argument < 0     
+1439      729.0     1.7717661067231707                      
+1440      729.5     Error in even_rhs: log argument < 0     
+1441      730.0     Error in odd_rhs: log argument < 0      
+1442      730.5     1.6864371123242532                      
+1443      731.0     Error in odd_rhs: log argument < 0      
+1444      731.5     1.603640513765183                       
+1445      732.0     Error in odd_rhs: log argument < 0      
+1446      732.5     1.9953737147625739                      
+1447      733.0     2.058474750999894                       
+1448      733.5     Error in even_rhs: log argument < 0     
+1449      734.0     1.6090412477289469                      
+1450      734.5     Error in even_rhs: log argument < 0     
+1451      735.0     1.6718025685186082                      
+1452      735.5     Error in even_rhs: log argument < 0     
+1453      736.0     Error in odd_rhs: log argument < 0      
+1454      736.5     1.797856547416135                       
+1455      737.0     Error in odd_rhs: log argument < 0      
+1456      737.5     1.5911282296953013                      
+1457      738.0     Error in odd_rhs: log argument < 0      
+1458      738.5     1.7888770688247926                      
+1459      739.0     Error in odd_rhs: log argument < 0      
+1460      739.5     Error in even_rhs: log argument < 0     
+1461      740.0     1.65656989174992                        
+1462      740.5     Error in even_rhs: log argument < 0     
+1463      741.0     1.6166784716384297                      
+1464      741.5     Error in even_rhs: log argument < 0     
+1465      742.0     2.153679543710404                       
+1466      742.5     2.0148691119715876                      
+1467      743.0     Error in odd_rhs: log argument < 0      
+1468      743.5     1.6053182547770601                      
+1469      744.0     Error in odd_rhs: log argument < 0      
+1470      744.5     1.681412857196396                       
+1471      745.0     Error in odd_rhs: log argument < 0      
+1472      745.5     Error in even_rhs: log argument < 0     
+1473      746.0     1.7447095114005384                      
+1474      746.5     Error in even_rhs: log argument < 0     
+1475      747.0     1.5929729785817879                      
+1476      747.5     Error in even_rhs: log argument < 0     
+1477      748.0     1.8548410259495678                      
+1478      748.5     Error in even_rhs: log argument < 0     
+1479      749.0     Error in odd_rhs: log argument < 0      
+1480      749.5     1.6487306804652084                      
+1481      750.0     Error in odd_rhs: log argument < 0      
+1482      750.5     1.6216962370702854                      
+1483      751.0     Error in odd_rhs: log argument < 0      
+1484      751.5     2.2244140916802495                      
+1485      752.0     1.9056980046539311                      
+1486      752.5     Error in even_rhs: log argument < 0     
+1487      753.0     1.5962841763802713                      
+1488      753.5     Error in even_rhs: log argument < 0     
+1489      754.0     1.7177997957805455                      
+1490      754.5     Error in even_rhs: log argument < 0     
+1491      755.0     Error in odd_rhs: log argument < 0      
+1492      755.5     1.7307452793436848                      
+1493      756.0     Error in odd_rhs: log argument < 0      
+1494      756.5     1.5944227201993872                      
+1495      757.0     Error in odd_rhs: log argument < 0      
+1496      757.5     1.8791350679621999                      
+1497      758.0     2.3147817950904974                      
+1498      758.5     Error in even_rhs: log argument < 0     
+1499      759.0     1.627186068846598                       
+1500      759.5     Error in even_rhs: log argument < 0     
+1501      760.0     1.641506678248477                       
+1502      760.5     Error in even_rhs: log argument < 0     
+1503      761.0     2.733009334318976                       
+1504      761.5     1.8790268956366216                      
+1505      762.0     Error in odd_rhs: log argument < 0      
+1506      762.5     1.5944156633071136                      
+1507      763.0     Error in odd_rhs: log argument < 0      
+1508      763.5     1.7308025983070627                      
+1509      764.0     Error in odd_rhs: log argument < 0      
+1510      764.5     Error in even_rhs: log argument < 0     
+1511      765.0     1.6916922511452197                      
+1512      765.5     Error in even_rhs: log argument < 0     
+1513      766.0     1.6020576908811248                      
+1514      766.5     Error in even_rhs: log argument < 0     
+1515      767.0     1.9768989144321238                      
+1516      767.5     2.2240774659410705                      
+1517      768.0     Error in odd_rhs: log argument < 0      
+1518      768.5     1.621673844784828                       
+1519      769.0     Error in odd_rhs: log argument < 0      
+1520      769.5     1.6487627781395442                      
+1521      770.0     Error in odd_rhs: log argument < 0      
+1522      770.5     Error in even_rhs: log argument < 0     
+1523      771.0     1.8072824645463543                      
+1524      771.5     Error in even_rhs: log argument < 0     
+1525      772.0     1.5912308719236885                      
+1526      772.5     Error in even_rhs: log argument < 0     
+1527      773.0     1.7801550227608627                      
+1528      773.5     Error in even_rhs: log argument < 0     
+1529      774.0     Error in odd_rhs: log argument < 0      
+1530      774.5     1.6813704804884446                      
+1531      775.0     Error in odd_rhs: log argument < 0      
+1532      775.5     1.605333137841219                       
+1533      776.0     Error in odd_rhs: log argument < 0      
+1534      776.5     2.015042081349592                       
+1535      777.0     2.0359065842537745                      
+1536      777.5     Error in even_rhs: log argument < 0     
+1537      778.0     1.6071237538977092                      
+1538      778.5     Error in even_rhs: log argument < 0     
+1539      779.0     1.6765190071840868                      
+1540      779.5     Error in even_rhs: log argument < 0     
+1541      780.0     Error in odd_rhs: log argument < 0      
+1542      780.5     1.7888014486633184                      
+1543      781.0     Error in odd_rhs: log argument < 0      
+1544      781.5     1.5911286679043368                      
+1545      782.0     Error in odd_rhs: log argument < 0      
+1546      782.5     1.797935170334902                       
+1547      783.0     Error in odd_rhs: log argument < 0      
+1548      783.5     Error in even_rhs: log argument < 0     
+1549      784.0     1.652577052806681                       
+1550      784.5     Error in even_rhs: log argument < 0     
+1551      785.0     1.6191251906441337                      
+1552      785.5     Error in even_rhs: log argument < 0     
+1553      786.0     2.1870798702792986                      
+1554      786.5     1.99521164716679                        
+1555      787.0     Error in odd_rhs: log argument < 0      
+1556      787.5     1.6036265813445194                      
+1557      788.0     Error in odd_rhs: log argument < 0      
+1558      788.5     1.6864810311128404                      
+1559      789.0     Error in odd_rhs: log argument < 0      
+1560      789.5     Error in even_rhs: log argument < 0     
+1561      790.0     1.737604646581502                       
+1562      790.5     Error in even_rhs: log argument < 0     
+1563      791.0     1.5936452266242183                      
+1564      791.5     Error in even_rhs: log argument < 0     
+1565      792.0     1.866706807969647                       
+1566      792.5     3.0087702653342405                      
+1567      793.0     Error in odd_rhs: log argument < 0      
+1568      793.5     1.6450338536764226                      
+1569      794.0     Error in odd_rhs: log argument < 0      
+1570      794.5     1.6243891631128948                      
+1571      795.0     Error in odd_rhs: log argument < 0      
+1572      795.5     2.2666215189821446                      
+1573      796.0     1.892045966454698                       
+1574      796.5     Error in even_rhs: log argument < 0     
+1575      797.0     1.5952974741618862                      
+1576      797.5     Error in even_rhs: log argument < 0     
+1577      798.0     1.724182577673005                       
+1578      798.5     Error in even_rhs: log argument < 0     
+1579      799.0     Error in odd_rhs: log argument < 0      
+1580      799.5     1.7241328005887864                      
+1581      800.0     Error in odd_rhs: log argument < 0      
+1582      800.5     1.5953046326126654                      
+1583      801.0     Error in odd_rhs: log argument < 0      
+1584      801.5     1.892148062018488                       
+1585      802.0     2.266276173938704                       
+1586      802.5     Error in even_rhs: log argument < 0     
+1587      803.0     1.6243680517478671                      
+1588      803.5     Error in even_rhs: log argument < 0     
+1589      804.0     1.6450616333893289                      
+1590      804.5     Error in even_rhs: log argument < 0     
+1591      805.0     3.01212398416402                        
+1592      805.5     1.8666138400887073                      
+1593      806.0     Error in odd_rhs: log argument < 0      
+1594      806.5     1.5936396786028684                      
+1595      807.0     Error in odd_rhs: log argument < 0      
+1596      807.5     1.7376581194223986                      
+1597      808.0     Error in odd_rhs: log argument < 0      
+1598      808.5     Error in even_rhs: log argument < 0     
+1599      809.0     1.6864415036031002                      
+1600      809.5     Error in even_rhs: log argument < 0     
+1601      810.0     1.6036391201607458                      
+1602      810.5     Error in even_rhs: log argument < 0     
+1603      811.0     1.9953575040681837                      
+1604      811.5     2.186810177575971                       
+1605      812.0     Error in odd_rhs: log argument < 0      
+1606      812.5     1.6191059806623804                      
+1607      813.0     Error in odd_rhs: log argument < 0      
+1608      813.5     1.6526070746560686                      
+1609      814.0     Error in odd_rhs: log argument < 0      
+1610      814.5     Error in even_rhs: log argument < 0     
+1611      815.0     1.7978644085254185                      
+1612      815.5     Error in even_rhs: log argument < 0     
+1613      816.0     1.591128273180406                       
+1614      816.5     Error in even_rhs: log argument < 0     
+1615      817.0     1.7888695056893618                      
+1616      817.5     Error in even_rhs: log argument < 0     
+1617      818.0     Error in odd_rhs: log argument < 0      
+1618      818.5     1.676482215145555                       
+1619      819.0     Error in odd_rhs: log argument < 0      
+1620      819.5     1.6071380137613118                      
+1621      820.0     Error in odd_rhs: log argument < 0      
+1622      820.5     2.0360733672437292                      
+1623      821.0     2.0148864044753116                      
+1624      821.5     Error in even_rhs: log argument < 0     
+1625      822.0     1.6053197427173609                      
+1626      822.5     Error in even_rhs: log argument < 0     
+1627      823.0     1.6814086189437791                      
+1628      823.5     Error in even_rhs: log argument < 0     
+1629      824.0     Error in odd_rhs: log argument < 0      
+1630      824.5     1.7800895258361984                      
+1631      825.0     Error in odd_rhs: log argument < 0      
+1632      825.5     1.5912320556713593                      
+1633      826.0     Error in odd_rhs: log argument < 0      
+1634      826.5     1.8073560852795787                      
+1635      827.0     Error in odd_rhs: log argument < 0      
+1636      827.5     Error in even_rhs: log argument < 0     
+1637      828.0     1.6487338897557324                      
+1638      828.5     Error in even_rhs: log argument < 0     
+1639      829.0     1.6216939974372642                      
+1640      829.5     Error in even_rhs: log argument < 0     
+1641      830.0     2.224380413241412                       
+1642      830.5     1.9767617936662694                      
+1643      831.0     Error in odd_rhs: log argument < 0      
+1644      831.5     1.6020459991567813                      
+1645      832.0     Error in odd_rhs: log argument < 0      
+1646      832.5     1.6917332108402345                      
+1647      833.0     Error in odd_rhs: log argument < 0      
+1648      833.5     Error in even_rhs: log argument < 0     
+1649      834.0     1.7307510104541666                      
+1650      834.5     Error in even_rhs: log argument < 0     
+1651      835.0     1.5944220141675622                      
+1652      835.5     Error in even_rhs: log argument < 0     
+1653      836.0     1.8791242487905864                      
+1654      836.5     2.731571946042754                       
+1655      837.0     Error in odd_rhs: log argument < 0      
+1656      837.5     1.641479982064181                       
+1657      838.0     Error in odd_rhs: log argument < 0      
+1658      838.5     1.6272081543227799                      
+1659      839.0     Error in odd_rhs: log argument < 0      
+1660      839.5     2.3151829831850854                      
+1661      840.0     1.8790377109304643                      
+1662      840.5     Error in even_rhs: log argument < 0     
+1663      841.0     1.5944163686537474                      
+1664      841.5     Error in even_rhs: log argument < 0     
+1665      842.0     1.7307968656247956                      
+1666      842.5     Error in even_rhs: log argument < 0     
+1667      843.0     Error in odd_rhs: log argument < 0      
+1668      843.5     1.7177517577108234                      
+1669      844.0     Error in odd_rhs: log argument < 0      
+1670      844.5     1.5962921463397934                      
+1671      845.0     Error in odd_rhs: log argument < 0      
+1672      845.5     1.9058052394838547                      
+1673      846.0     2.2241111126587385                      
+1674      846.5     Error in even_rhs: log argument < 0     
+1675      847.0     1.6216760836089128                      
+1676      847.5     Error in even_rhs: log argument < 0     
+1677      848.0     1.648759567895176                       
+1678      848.5     Error in even_rhs: log argument < 0     
+1679      849.0     Error in odd_rhs: log argument < 0      
+1680      849.5     1.8547521308817518                      
+1681      850.0     Error in odd_rhs: log argument < 0      
+1682      850.5     1.592968229867465                       
+1683      851.0     Error in odd_rhs: log argument < 0      
+1684      851.5     1.7447649510737526                      
+1685      852.0     Error in odd_rhs: log argument < 0      
+1686      852.5     Error in even_rhs: log argument < 0     
+1687      853.0     1.6813747175774583                      
+1688      853.5     Error in even_rhs: log argument < 0     
+1689      854.0     1.605331649168679                       
+1690      854.5     Error in even_rhs: log argument < 0     
+1691      855.0     2.01502477997647                        
+1692      855.5     2.153436667955049                       
+1693      856.0     Error in odd_rhs: log argument < 0      
+1694      856.5     1.6166601900448783                      
+1695      857.0     Error in odd_rhs: log argument < 0      
+1696      857.5     1.6566010744350315                      
+1697      858.0     Error in odd_rhs: log argument < 0      
+1698      858.5     Error in even_rhs: log argument < 0     
+1699      859.0     1.7888090095603195                      
+1700      859.5     Error in even_rhs: log argument < 0     
+1701      860.0     1.591128623747634                       
+1702      860.5     Error in even_rhs: log argument < 0     
+1703      861.0     1.7979273068602815                      
+1704      861.5     Error in even_rhs: log argument < 0     
+1705      862.0     Error in odd_rhs: log argument < 0      
+1706      862.5     1.6717670840953123                      
+1707      863.0     Error in odd_rhs: log argument < 0      
+1708      863.5     1.6090563821880035                      
+1709      864.0     Error in odd_rhs: log argument < 0      
+1710      864.5     2.0586542166767847                      
+1711      865.0     1.9952278499925924                      
+1712      865.5     Error in even_rhs: log argument < 0     
+1713      866.0     1.6036279742242232                      
+1714      866.5     Error in even_rhs: log argument < 0     
+1715      867.0     1.686476638633927                       
+1716      867.5     Error in even_rhs: log argument < 0     
+1717      868.0     Error in odd_rhs: log argument < 0      
+1718      868.5     1.7717030400209013                      
+1719      869.0     Error in odd_rhs: log argument < 0      
+1720      869.5     1.5914384578370597                      
+1721      870.0     Error in odd_rhs: log argument < 0      
+1722      870.5     1.8171612472888399                      
+1723      871.0     3.0091412139175286                      
+1724      871.5     Error in even_rhs: log argument < 0     
+1725      872.0     1.64503693989671                        
+1726      872.5     Error in even_rhs: log argument < 0     
+1727      873.0     1.6243868170401907                      
+1728      873.5     Error in even_rhs: log argument < 0     
+1729      874.0     2.266583129076378                       
+1730      874.5     1.9593910179206884                      
+1731      875.0     Error in odd_rhs: log argument < 0      
+1732      875.5     1.600575443995765                       
+1733      876.0     Error in odd_rhs: log argument < 0      
+1734      876.5     1.6971753778625196                      
+1735      877.0     Error in odd_rhs: log argument < 0      
+1736      877.5     Error in even_rhs: log argument < 0     
+1737      878.0     1.7241383307049607                      
+1738      878.5     Error in even_rhs: log argument < 0     
+1739      879.0     1.5953038369230748                      
+1740      879.5     Error in even_rhs: log argument < 0     
+1741      880.0     1.8921367162012006                      
+1742      880.5     2.583480806575557                       
+1743      881.0     Error in odd_rhs: log argument < 0      
+1744      881.5     1.6380660047029771                      
+1745      882.0     Error in odd_rhs: log argument < 0      
+1746      882.5     1.6301553937085367                      
+1747      883.0     Error in odd_rhs: log argument < 0      
+1748      883.5     2.3723133712066633                      
+1749      884.0     1.8666241682554574                      
+1750      884.5     Error in even_rhs: log argument < 0     
+1751      885.0     1.5936402947465942                      
+1752      885.5     Error in even_rhs: log argument < 0     
+1753      886.0     1.7376521772672435                      
+1754      886.5     Error in even_rhs: log argument < 0     
+1755      887.0     Error in odd_rhs: log argument < 0      
+1756      887.5     1.7115933278600755                      
+1757      888.0     Error in odd_rhs: log argument < 0      
+1758      888.5     1.5973858983790206                      
+1759      889.0     Error in odd_rhs: log argument < 0      
+1760      889.5     1.9201625201432435                      
+1761      890.0     2.1868401322004765                      
+1762      890.5     Error in even_rhs: log argument < 0     
+1763      891.0     1.6191081147508568                      
+1764      891.5     Error in even_rhs: log argument < 0     
+1765      892.0     1.6526037384610412                      
+1766      892.5     Error in even_rhs: log argument < 0     
+1767      893.0     Error in odd_rhs: log argument < 0      
+1768      893.5     1.8434033202868554                      
+1769      894.0     Error in odd_rhs: log argument < 0      
+1770      894.5     1.5924008905124332                      
+1771      895.0     Error in odd_rhs: log argument < 0      
+1772      895.5     1.752134211604425                       
+1773      896.0     Error in odd_rhs: log argument < 0      
+1774      896.5     Error in even_rhs: log argument < 0     
+1775      897.0     1.6764863026478687                      
+1776      897.5     Error in even_rhs: log argument < 0     
+1777      898.0     1.6071364290029826                      
+1778      898.5     Error in even_rhs: log argument < 0     
+1779      899.0     2.0360548313192153                      
+1780      899.5     2.123237416491304                       
+1781      900.0     Error in odd_rhs: log argument < 0      
+1782      900.5     1.6143346680889505                      
+1783      901.0     Error in odd_rhs: log argument < 0      
+1784      901.5     1.6607484636988283                      
+1785      902.0     Error in odd_rhs: log argument < 0      
+1786      902.5     Error in even_rhs: log argument < 0     
+1787      903.0     1.7800968023288917                      
+1788      903.5     Error in even_rhs: log argument < 0     
+1789      904.0     1.5912319238451649                      
+1790      904.5     Error in even_rhs: log argument < 0     
+1791      905.0     1.8073479040846987                      
+1792      905.5     Error in even_rhs: log argument < 0     
+1793      906.0     Error in odd_rhs: log argument < 0      
+1794      906.5     1.6672201859648323                      
+1795      907.0     Error in odd_rhs: log argument < 0      
+1796      907.5     1.611089576837009                       
+1797      908.0     Error in odd_rhs: log argument < 0      
+1798      908.5     2.0830136499341614                      
+1799      909.0     1.9767770261819575                      
+1800      909.5     Error in even_rhs: log argument < 0     
+1801      910.0     1.6020472979182505                      
+1802      910.5     Error in even_rhs: log argument < 0     
+1803      911.0     1.6917286592122922                      
+1804      911.5     Error in even_rhs: log argument < 0     
+1805      912.0     Error in odd_rhs: log argument < 0      
+1806      912.5     1.7636257821137566                      
+1807      913.0     Error in odd_rhs: log argument < 0      
+1808      913.5     1.591748003970849                       
+1809      914.0     Error in odd_rhs: log argument < 0      
+1810      914.5     1.8273743108355858                      
+1811      915.0     2.7317313452760725                      
+1812      915.5     Error in even_rhs: log argument < 0     
+1813      916.0     1.6414829479012742                      
+1814      916.5     Error in even_rhs: log argument < 0     
+1815      917.0     1.6272057000091764                      
+1816      917.5     Error in even_rhs: log argument < 0     
+1817      918.0     2.315138382225309                       
+1818      918.5     1.9429908529735935                      
+1819      919.0     Error in odd_rhs: log argument < 0      
+1820      919.5     1.5992139348840315                      
+1821      920.0     Error in odd_rhs: log argument < 0      
+1822      920.5     1.7028139352909935                      
+1823      921.0     Error in odd_rhs: log argument < 0      
+1824      921.5     Error in even_rhs: log argument < 0     
+1825      922.0     1.7177570946287373                      
+1826      922.5     Error in even_rhs: log argument < 0     
+1827      923.0     1.5962912604807191                      
+1828      923.5     Error in even_rhs: log argument < 0     
+1829      924.0     1.905793322475232                       
+1830      924.5     2.481854801187148                       
+1831      925.0     Error in odd_rhs: log argument < 0      
+1832      925.5     1.6347890429083887                      
+1833      926.0     Error in odd_rhs: log argument < 0      
+1834      926.5     1.6332332040328084                      
+1835      927.0     Error in odd_rhs: log argument < 0      
+1836      927.5     2.44164467922878                        
+1837      928.0     1.8547620066250585                      
+1838      928.5     Error in even_rhs: log argument < 0     
+1839      929.0     1.592968757200536                       
+1840      929.5     Error in even_rhs: log argument < 0     
+1841      930.0     1.7447587903494648                      
+1842      930.5     Error in even_rhs: log argument < 0     
+1843      931.0     Error in odd_rhs: log argument < 0      
+1844      931.5     1.7056493151835284                      
+1845      932.0     Error in odd_rhs: log argument < 0      
+1846      932.5     1.5985865987443295                      
+1847      933.0     Error in odd_rhs: log argument < 0      
+1848      933.5     1.9352839379693614                      
+1849      934.0     2.1534636449846296                      
+1850      934.5     Error in even_rhs: log argument < 0     
+1851      935.0     1.6166622209843426                      
+1852      935.5     Error in even_rhs: log argument < 0     
+1853      936.0     1.6565976092475745                      
+1854      936.5     Error in even_rhs: log argument < 0     
+1855      937.0     Error in odd_rhs: log argument < 0      
+1856      937.5     1.8325331371832367                      
+1857      938.0     Error in odd_rhs: log argument < 0      
+1858      938.5     1.5919373014500082                      
+1859      939.0     Error in odd_rhs: log argument < 0      
+1860      939.5     1.7597779498865511                      
+1861      940.0     Error in odd_rhs: log argument < 0      
+1862      940.5     Error in even_rhs: log argument < 0     
+1863      941.0     1.6717710263212526                      
+1864      941.5     Error in even_rhs: log argument < 0     
+1865      942.0     1.609054700248536                       
+1866      942.5     Error in even_rhs: log argument < 0     
+1867      943.0     2.058634270904468                       
+1868      943.5     2.0956771006367085                      
+1869      944.0     Error in odd_rhs: log argument < 0      
+1870      944.5     1.6121277234610223                      
+1871      945.0     Error in odd_rhs: log argument < 0      
+1872      945.5     1.6650531663559116                      
+1873      946.0     Error in odd_rhs: log argument < 0      
+1874      946.5     Error in even_rhs: log argument < 0     
+1875      947.0     1.7717100465358542                      
+1876      947.5     Error in even_rhs: log argument < 0     
+1877      948.0     1.5914382382586711                      
+1878      948.5     Error in even_rhs: log argument < 0     
+1879      949.0     1.817152729221455                       
+1880      949.5     Error in even_rhs: log argument < 0     
+1881      950.0     Error in odd_rhs: log argument < 0      
+1882      950.5     1.6628369257548836                      
+1883      951.0     Error in odd_rhs: log argument < 0      
+1884      951.5     1.613239028370761                       
+1885      952.0     Error in odd_rhs: log argument < 0      
+1886      952.5     2.1094369410201907                      
+1887      953.0     1.9594053803815623                      
+1888      953.5     Error in even_rhs: log argument < 0     
+1889      954.0     1.6005766495092664                      
+1890      954.5     Error in even_rhs: log argument < 0     
+1891      955.0     1.6971706618185873                      
+1892      955.5     Error in even_rhs: log argument < 0     
+1893      956.0     Error in odd_rhs: log argument < 0      
+1894      956.5     1.7558429047182673                      
+1895      957.0     Error in odd_rhs: log argument < 0      
+1896      957.5     1.5921608886965803                      
+1897      958.0     Error in odd_rhs: log argument < 0      
+1898      958.5     1.8380214650726137                      
+1899      959.0     2.5835822752633555                      
+1900      959.5     Error in even_rhs: log argument < 0     
+1901      960.0     1.638068852683804                       
+1902      960.5     Error in even_rhs: log argument < 0     
+1903      961.0     1.6301528292370786                      
+1904      961.5     Error in even_rhs: log argument < 0     
+1905      962.0     2.372260201775689                       
+1906      962.5     1.927468931342631                       
+1907      963.0     Error in odd_rhs: log argument < 0      
+1908      963.5     1.5979605713869474                      
+1909      964.0     Error in odd_rhs: log argument < 0      
+1910      964.5     1.7086557450917814                      
+1911      965.0     Error in odd_rhs: log argument < 0      
+1912      965.5     Error in even_rhs: log argument < 0     
+1913      966.0     1.7115984788164942                      
+1914      966.5     Error in even_rhs: log argument < 0     
+1915      967.0     1.5973849217773175                      
+1916      967.5     Error in even_rhs: log argument < 0     
+1917      968.0     1.920149981089226                       
+1918      968.5     2.404435287688668                       
+1919      969.0     Error in odd_rhs: log argument < 0      
+1920      969.5     1.631646389273076                       
+1921      970.0     Error in odd_rhs: log argument < 0      
+1922      970.5     1.636444055889731                       
+1923      971.0     Error in odd_rhs: log argument < 0      
+1924      971.5     2.529771778498421                       
+1925      972.0     1.8434127744743065                      
+1926      972.5     Error in even_rhs: log argument < 0     
+1927      973.0     1.5924013293691934                      
+1928      973.5     Error in even_rhs: log argument < 0     
+1929      974.0     1.75212782246278                        
+1930      974.5     Error in even_rhs: log argument < 0     
+1931      975.0     Error in odd_rhs: log argument < 0      
+1932      975.5     1.6999120955632328                      
+1933      976.0     Error in odd_rhs: log argument < 0      
+1934      976.5     1.5998950323416155                      
+1935      977.0     Error in odd_rhs: log argument < 0      
+1936      977.5     1.9512432858155442                      
+1937      978.0     2.123261939914497                       
+1938      978.5     Error in even_rhs: log argument < 0     
+1939      979.0     1.614336597366985                       
+1940      979.5     Error in even_rhs: log argument < 0     
+1941      980.0     1.6607448662817506                      
+1942      980.5     Error in even_rhs: log argument < 0     
+1943      981.0     Error in odd_rhs: log argument < 0      
+1944      981.5     1.8221109064441339                      
+1945      982.0     Error in odd_rhs: log argument < 0      
+1946      982.5     1.591577170179252                       
+1947      983.0     Error in odd_rhs: log argument < 0      
+1948      983.5     1.767709248643231                       
+1949      984.0     Error in odd_rhs: log argument < 0      
+1950      984.5     Error in even_rhs: log argument < 0     
+1951      985.0     1.6672239869538108                      
+1952      985.5     Error in even_rhs: log argument < 0     
+1953      986.0     1.6110877965402217                      
+1954      986.5     Error in even_rhs: log argument < 0     
+1955      987.0     2.0829920777311113                      
+1956      987.5     2.070346642328848                       
+1957      988.0     Error in odd_rhs: log argument < 0      
+1958      988.5     1.6100377730739466                      
+1959      989.0     Error in odd_rhs: log argument < 0      
+1960      989.5     1.6695193613737824                      
+1961      990.0     Error in odd_rhs: log argument < 0      
+1962      990.5     Error in even_rhs: log argument < 0     
+1963      991.0     1.7636325318500476                      
+1964      991.5     Error in even_rhs: log argument < 0     
+1965      992.0     1.5917476965023392                      
+1966      992.5     Error in even_rhs: log argument < 0     
+1967      993.0     1.8273654347265178                      
+1968      993.5     Error in even_rhs: log argument < 0     
+1969      994.0     Error in odd_rhs: log argument < 0      
+1970      994.5     1.6586129927140842                      
+1971      995.0     Error in odd_rhs: log argument < 0      
+1972      995.5     1.6155062686473431                      
+1973      996.0     Error in odd_rhs: log argument < 0      
+1974      996.5     2.138285687718985                       
+1975      997.0     1.943004430392398                       
+1976      997.5     Error in even_rhs: log argument < 0     
+1977      998.0     1.599215047950145                       
+1978      998.5     Error in even_rhs: log argument < 0     
+1979      999.0     1.702809049189879                       
+1980      999.5     Error in even_rhs: log argument < 0     
+1981      1000.0    Error in odd_rhs: log argument < 0      
